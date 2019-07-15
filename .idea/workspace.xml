@@ -320,7 +320,7 @@
     <property name="FullScreen" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563199311882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563202287674" />
     <property name="dynamic.classpath" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -341,7 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.task_1568">
+  <component name="RunManager" selected="Application.test">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -476,9 +476,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.task_1568" />
         <item itemvalue="Application.task_1430" />
-        <item itemvalue="Application.test" />
         <item itemvalue="TestNG.SessionTestNGTest.smokeTest" />
       </list>
     </recent_temporary>
