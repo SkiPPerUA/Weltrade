@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17cae4f9-d2a7-408e-bbeb-db3f86594c33" name="Default" comment="com">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/AutorisationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/AccountsCtrPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/TraderControlPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Footer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/SupportPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/TraderTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TextCabinet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TextPublic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TitlePublic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/MainPageForum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/blocks/MainMenuBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/blocks/MainMenuBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SessionJUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SessionJUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SessionTestNGTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SessionTestNGTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/HelpPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/HelpPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/MainLoggedInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/MainLoggedInPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/MainPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/TopicListPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/TopicListPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/TopicPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/TopicPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/MainMenuBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/MainMenuBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/MainMenuLoggedInBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/MainMenuLoggedInBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/category/BoardItemWidget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/category/BoardItemWidget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/category/CategoryBoardBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/category/CategoryBoardBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/category/CategoryListBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/category/CategoryListBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/category/TopicMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/app/forum/blocks/category/TopicMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/BlockObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/BlockObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/Locator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/Locator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/PageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/PageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/Session.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/Session.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/Timeouts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/Timeouts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/Widget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/Widget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/widget/GUIButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/widget/GUIButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/widget/GUIElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/widget/GUIElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/widget/GUILink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/widget/GUILink.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/widget/GUITextBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/base/widget/GUITextBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SessionJUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SessionJUnitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SessionTestNGTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SessionTestNGTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/Widget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/Widget.java" afterDir="false" />
     </list>
     <list id="cf75c754-fb12-42f6-b30b-73b3bd070617" name="com" comment="com&#10;&#10;(cherry picked from commit f7d45ad4872c69a4639399495ed1b0514fa3fb4d)">
       <changelist_data name="Skipper" email="savchukvi12@gmail.com" date="1560448738000" />
@@ -71,6 +27,27 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/Widget.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/Header.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
@@ -83,67 +60,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/MainPage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/SupportPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/TraderTools.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Footer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TextCabinet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="210">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -172,11 +92,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="409">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/PageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="71" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/BlockObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -224,7 +168,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/PageObject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/Widget.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/widget/GUIButton.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/widget/GUIElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/widget/GUILink.java" />
@@ -245,6 +188,7 @@
         <option value="$PROJECT_DIR$/src/test/java/TextPublic.java" />
         <option value="$PROJECT_DIR$/src/test/java/TitlePublic.java" />
         <option value="$PROJECT_DIR$/src/test/java/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/Widget.java" />
       </list>
     </option>
   </component>
@@ -326,25 +270,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
               <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="WELTRADE_Cabinet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="WELTRADE_Publick" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
@@ -557,7 +490,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27391000" />
+    <option name="totallyTimeSpent" value="27602000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -840,7 +773,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/BlockObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="150">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
@@ -873,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/Widget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+        <state relative-caret-position="355">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -900,7 +833,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -945,9 +878,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/automation-framework.iml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1090,8 +1020,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="409">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
