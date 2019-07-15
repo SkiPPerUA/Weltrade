@@ -48,7 +48,7 @@ public class Widget
             temp = temp.getParent();
             System.out.print(this._locator.getWDLocator().toString() + " <- ");
         }
-        System.out.println(temp.getWDLocator().toString());
+        //System.out.println(temp.getWDLocator().toString());
         return context.findElement(this._locator.getWDLocator());
     }
 
