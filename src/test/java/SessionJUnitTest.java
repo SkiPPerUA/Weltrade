@@ -5,7 +5,7 @@ import org.junit.Test;
 import org.openqa.selenium.interactions.Actions;
 import ua.kiev.prog.automation.framework.app.forum.LoginPage;
 import ua.kiev.prog.automation.framework.app.forum.MainLoggedInPage;
-import ua.kiev.prog.automation.framework.app.forum.MainPage;
+import ua.kiev.prog.automation.framework.app.forum.MainPageForum;
 import ua.kiev.prog.automation.framework.app.forum.TopicListPage;
 import ua.kiev.prog.automation.framework.base.Session;
 
@@ -22,7 +22,7 @@ public class SessionJUnitTest extends Assert
     @Test
     public void smokeTest() {
         Session.get().driver().get("https://prog.kiev.ua/forum/index.php");
-        MainPage mainPage = new MainPage();
+        MainPageForum mainPage = new MainPageForum();
         mainPage.confirmPage();
         mainPage.mainMenu.getHelpPage().mainMenu.getMainPage();
         LoginPage loginPage = mainPage.getLoginPage();

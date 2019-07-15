@@ -3,10 +3,9 @@ import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import ua.kiev.prog.automation.framework.App;
 import ua.kiev.prog.automation.framework.app.forum.LoginPage;
 import ua.kiev.prog.automation.framework.app.forum.MainLoggedInPage;
-import ua.kiev.prog.automation.framework.app.forum.MainPage;
+import ua.kiev.prog.automation.framework.app.forum.MainPageForum;
 import ua.kiev.prog.automation.framework.app.forum.TopicListPage;
 import ua.kiev.prog.automation.framework.base.Session;
 
@@ -24,7 +23,7 @@ public class SessionTestNGTest extends Assert
     @Test(priority = 0)
     public void smokeTest() {
         Session.get().driver().get("https://prog.kiev.ua/forum/index.php");
-        MainPage mainPage = new MainPage();
+        MainPageForum mainPage = new MainPageForum();
         mainPage.confirmPage();
        // mainPage.mainMenu.getHelpPage().mainMenu.getMainPage();
         LoginPage loginPage = mainPage.getLoginPage();

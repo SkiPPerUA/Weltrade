@@ -1,8 +1,7 @@
 package ua.kiev.prog.automation.framework.app.forum.blocks;
 
-import org.openqa.selenium.By;
 import ua.kiev.prog.automation.framework.app.forum.HelpPage;
-import ua.kiev.prog.automation.framework.app.forum.MainPage;
+import ua.kiev.prog.automation.framework.app.forum.MainPageForum;
 import ua.kiev.prog.automation.framework.base.BlockObject;
 import ua.kiev.prog.automation.framework.base.Locator;
 import ua.kiev.prog.automation.framework.base.widget.GUILink;
@@ -20,10 +19,10 @@ public class MainMenuBlock extends BlockObject
         super(Locator.create("//div[@id='main_menu']"));
     }
 
-    public MainPage getMainPage ()
+    public MainPageForum getMainPage ()
     {
         this.helpLink.click();
-        MainPage page = new MainPage();
+        MainPageForum page = new MainPageForum();
         page.confirmPage();
         return page;
     }

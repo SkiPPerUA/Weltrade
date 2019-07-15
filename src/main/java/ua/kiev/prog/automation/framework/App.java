@@ -1,8 +1,6 @@
 package ua.kiev.prog.automation.framework;
 
 import ua.kiev.prog.automation.framework.app.forum.*;
-import ua.kiev.prog.automation.framework.app.forum.blocks.category.BoardItemWidget;
-import ua.kiev.prog.automation.framework.app.forum.blocks.category.TopicMessage;
 import ua.kiev.prog.automation.framework.base.Session;
 
 public class App
@@ -11,7 +9,7 @@ public class App
     {
         try {
             Session.get().driver().get("https://prog.kiev.ua/forum/index.php");
-            MainPage mainPage = new MainPage();
+            MainPageForum mainPage = new MainPageForum();
            // mainPage.confirmPage();
            // mainPage.mainMenu.getHelpPage().mainMenu.getMainPage();
             LoginPage loginPage = mainPage.getLoginPage();
