@@ -1,6 +1,8 @@
 package ua.kiev.prog.automation.framework.WELTRADE_Publick.Blocks;
 
+
 import ua.kiev.prog.automation.framework.WELTRADE_Publick.MainPage;
+;
 import ua.kiev.prog.automation.framework.WELTRADE_Publick.SupportPage;
 import ua.kiev.prog.automation.framework.base.BlockObject;
 import ua.kiev.prog.automation.framework.base.Locator;
@@ -37,7 +39,10 @@ public class Header extends BlockObject {
     final public GUILink autotrading = new GUILink(this.getLocator().createChild("/html/body/header/div[2]/div/nav/ul/li[3]/span"));
     final public GUILink partner = new GUILink(this.getLocator().createChild("/html/body/header/div[2]/div/nav/ul/li[4]/span"));
     final public GUILink promotions = new GUILink(this.getLocator().createChild("/html/body/header/div[2]/div/nav/ul/li[5]/span"));
+
+
     final public GUILink instruments = new GUILink(this.getLocator().createChild("/html/body/header/div[2]/div/nav/ul/li[6]/span"));
+    final public GUILink tradingCalculator = new GUILink(this.getLocator().createChild("/html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[1]/a"));
 
     final public GUILink languages = new GUILink(this.getLocator().createChild("/html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div"));
     final public GUILink languageEng = new GUILink(this.getLocator().createChild("/html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div/ul/li[@name='en']/a/span[2]"));

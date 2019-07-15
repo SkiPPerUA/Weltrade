@@ -4,6 +4,7 @@ import ua.kiev.prog.automation.framework.WELTRADE_Publick.Blocks.Footer;
 import ua.kiev.prog.automation.framework.WELTRADE_Publick.Blocks.Header;
 import ua.kiev.prog.automation.framework.base.Locator;
 import ua.kiev.prog.automation.framework.base.PageObject;
+import ua.kiev.prog.automation.framework.base.Widget;
 import ua.kiev.prog.automation.framework.base.widget.GUILink;
 
 public class TraderTools extends PageObject {
@@ -17,8 +18,14 @@ public class TraderTools extends PageObject {
     final public GUILink zulu_info = new GUILink(Locator.create("/html/body/section/section[2]/div/ul/li[4]/a"));
     final public GUILink cripto_info = new GUILink(Locator.create("/html/body/section/section[2]/div/ul/li[5]/a"));
 
+
+
+
     @Override
     protected Locator readyLocator() {
         return Locator.create(".//section[@class='trader-instruments-content']/div[@class='container']");
     }
+
+
+
 }

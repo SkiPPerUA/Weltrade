@@ -43,11 +43,11 @@ public class Widget
             List<WebElement> list = context.findElements(this._locator.getWDLocator());
             return list.size() != 0;
         });
-        Locator temp = this._locator;
+        /*Locator temp = this._locator;
         while (temp.getParent() != null) {
             temp = temp.getParent();
             System.out.print(this._locator.getWDLocator().toString() + " <- ");
-        }
+        }*/
         //System.out.println(temp.getWDLocator().toString());
         return context.findElement(this._locator.getWDLocator());
     }
