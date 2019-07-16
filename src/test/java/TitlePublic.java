@@ -1,8 +1,17 @@
 
 import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import ua.kiev.prog.automation.framework.WELTRADE_Publick.MainPage;
+import ua.kiev.prog.automation.framework.base.Locator;
 import ua.kiev.prog.automation.framework.base.Session;
+import ua.kiev.prog.automation.framework.base.Widget;
 import ua.kiev.prog.automation.framework.base.widget.GUILink;
+
+import java.lang.reflect.Array;
+import java.util.List;
+import java.util.WeakHashMap;
 
 public class TitlePublic {
 

@@ -17,7 +17,7 @@ public class Header extends BlockObject {
     }
 
     final public GUILink support = new GUILink(this.getLocator().createChild("/html/body/header/div[2]/div/nav/div/a[2]"));
-    final public GUILink logo = new GUILink(this.getLocator().createChild("/html/body/header/div[1]/div/div/div[1]/a/img"));
+    final public GUILink logo = new GUILink(this.getLocator().createChild("/html/body/header/div[1]/div/div/div[1]/a"));
     final public GUILink registration = new GUILink(this.getLocator().createChild("/html/body/header/div[1]/div/div/div[3]/a[1]"));
     final public GUILink login = new GUILink(this.getLocator().createChild("/html/body/header/div[1]/div/div/div[3]/a[2]"));
     final public GUILink banner = new GUILink(this.getLocator().createChild("/html/body/header/div[1]/div/div/div[2]"));
@@ -79,6 +79,7 @@ public class Header extends BlockObject {
 
     public void moveOnElement(GUILink link){
         link.moveCursorToElement();
+
 
     }
 

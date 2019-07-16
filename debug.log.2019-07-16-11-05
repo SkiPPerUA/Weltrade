@@ -1,0 +1,8 @@
+2019-07-16 11:05:08 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div
+2019-07-16 11:05:08 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div/ul/li[@name='id']/a/span[2]
+2019-07-16 11:05:17 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div
+2019-07-16 11:05:17 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div/ul/li[@name='es']/a/span[2]
+2019-07-16 11:05:42 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div
+2019-07-16 11:05:43 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div/ul/li[@name='vi']/a/span[2]
+2019-07-16 11:05:53 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div
+2019-07-16 11:05:54 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div/ul/li[@name='lo']/a/span[2]
