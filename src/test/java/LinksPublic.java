@@ -19,6 +19,8 @@ public class LinksPublic {
         Session.get().driver().get(prod);
 
         MainPage page = new MainPage();
+
+        //елемент на какой нужно навести мышку
         GUILink move = new GUILink(Locator.create("/html/body/header/div[2]/div/nav/ul/li[3]/span"));
 
         try{
@@ -29,11 +31,15 @@ public class LinksPublic {
                 page.header.languages.click();
                 page.header.getAllLanguages(i).click();
                 move.moveCursorToElement();
+
+                //список страниц для проверки
                 List<WebElement> elements = Session.get().driver().findElements(By.xpath(".//li[3]/div/ul/li/a/span"));
 
                 for (int t = 1; t <= elements.size(); t++){
 
                     move.moveCursorToElement();
+
+                    //елемент на какой будет переход
                     WebElement now = Session.get().driver().findElement(By.xpath(".//li[3]/div/ul/li["+t+"]/a"));
                     now.click();
                     System.out.println(page.header.getNameLangauge(i) + " -> " + Session.get().driver().getCurrentUrl());
