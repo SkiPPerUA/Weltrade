@@ -6,7 +6,7 @@ import ua.kiev.prog.automation.framework.base.Session;
 
 public class task_1430 {
 
-    static String[] acc = {"Демо", "Micro", "Premium", "ZuluTrade"};
+    static String[] acc = {"Демо", "Micro", "Premium", "ZuluTrade", "Pro"};
 
     static String[] ticket = {"EURDKK", "EURHUF", "EURNOK", "EURSEK", "GBPSGD", "NZDSGD", "USDDKK", "USDHUF", "USDSEK", "USDZAR"};
 
@@ -18,7 +18,7 @@ public class task_1430 {
         String dev = "http://wt23.dev.weltrade.com.ua";
         String prod = "https://www.weltrade.com.ua";
 
-        Session.get().driver().get(dev);
+        Session.get().driver().get(prod);
 
         MainPage page = new MainPage();
 
@@ -58,13 +58,14 @@ public class task_1430 {
                 while (opa < ticket.length) {
 
                     curentPage1.setInstrument(ticket[opa]);
-                    Thread.sleep                         (2000);
+
                     System.out.println(acc[op] + " -> " + ticket[opa] + " = Проверено");
                     opa++;
 
                 }
 
                 op++;
+                opa = 0;
 
             }
         }

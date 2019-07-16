@@ -1,6 +1,0 @@
-2019-07-16 11:04:33 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div
-2019-07-16 11:04:33 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div/ul/li[@name='en']/a/span[2]
-2019-07-16 11:04:43 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div
-2019-07-16 11:04:44 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div/ul/li[@name='th']/a/span[2]
-2019-07-16 11:04:55 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div
-2019-07-16 11:04:56 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div/ul/li[@name='ru']/a/span[2]
