@@ -15,15 +15,15 @@ public class TextCabinet {
         String local = "http://localhost:4200/auth";
         String prod = "https://account.weltrade.com/auth/login";
 
-        Session.get().driver().get(prod);
+        Session.get().driver().get(local);
 
         AutorisationPage page = new AutorisationPage();
 
-        page.loginInCabinet("savchukvi12@gmail.com","4766147sv");
+        page.loginInCabinet("cyndap-49@bigmir.net","123qaz");
 
         TraderControlPage pageloged = new TraderControlPage();
 
-        //Widget text = new Widget(Locator.create("/html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/div/p"));
+        Widget text = new Widget(Locator.create("/html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/div/p"));
 
         //"Eng","Thai","Rus","Indon","Esp","Vn","Lao","Ms","CN"
         String [] newText = {
@@ -40,30 +40,21 @@ public class TextCabinet {
 
 
 
-        Widget radio = new Widget(Locator.create("/html/body/app-root/app-pages/main/app-control-page/section/div/div[2]/app-control-account/div/div[1]/div[2]/app-switcher/div/div"));
 
-        try {
-            /*for (int i = 0; i < newText.length; i++) {
 
-                pageloged.header.language.click();
-                pageloged.header.getAllLanguages(i).click();
-                //Assert.assertEquals(newText[i], text.getText());
-                System.out.println(pageloged.header.getNameLangauge(i));
-                Thread.sleep(3000);
-
-            }*/
-
-            radio.element().click();
-
+          try {
             for (int i = 0; i < newText.length; i++) {
 
                 pageloged.header.language.click();
                 pageloged.header.getAllLanguages(i).click();
                 //Assert.assertEquals(newText[i], text.getText());
-                System.out.println(pageloged.header.getNameLangauge(i));
-                Thread.sleep(3000);
+                System.out.print(pageloged.header.getNameLangauge(i));
+                //Thread.sleep(3000);
+                System.out.println();
 
             }
+
+
 
 
 

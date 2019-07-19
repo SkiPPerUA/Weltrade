@@ -10,11 +10,11 @@ import ua.kiev.prog.automation.framework.base.widget.GUILink;
 
 import java.util.List;
 
-public class AccountsCtrPage extends BlockObject {
+public class AccountsCtrBlock extends BlockObject {
 
     final public GUILink account = new GUILink(Locator.create(".//tr/td[@class='text-left']"));
 
-    public AccountsCtrPage() {
+    public AccountsCtrBlock() {
         super(Locator.create(".//div[@class='col-md-6 d-flex justify-content-md-start justify-content-between align-items-center']"));
     }
 

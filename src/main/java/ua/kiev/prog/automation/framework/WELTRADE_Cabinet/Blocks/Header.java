@@ -11,6 +11,14 @@ public class Header extends BlockObject {
         super(Locator.create(".//a[1]/img[@alt='logo']"));
     }
 
+    final public GUILink userInfo = new GUILink(Locator.create(".//div[@class='user-info-profile']"));
+    final public GUILink userSettings = new GUILink(Locator.create(".//li/a[@routerlink='/settings']"));
+
+
+    final public GUILink cashier = new GUILink(Locator.create("/html/body/app-root/app-pages/header/app-header/app-main-nav-menu/nav[1]/div/div/ul/li[2]/a"));
+    final public GUILink cashierHistory = new GUILink(Locator.create(".//li/a[@routerlink='/cashbox/history']"));
+
+
     final public GUILink language = new GUILink(Locator.create(".//div[@class='select-lang ng-star-inserted']"));
     final public GUILink languageEng = new GUILink(this.getLocator().createChild("//*[@id='en']"));
     final public GUILink languageThai = new GUILink(this.getLocator().createChild("//*[@id='th']"));
