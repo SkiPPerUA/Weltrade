@@ -5,7 +5,7 @@ import ua.kiev.prog.automation.framework.base.Locator;
 import ua.kiev.prog.automation.framework.base.PageObject;
 import ua.kiev.prog.automation.framework.base.widget.GUILink;
 
-public class SettingsPage extends PageObject {
+public class SettingsMainPage extends PageObject {
     @Override
     protected Locator readyLocator() {
         return Locator.create(".//div[@class='box ng-star-inserted']");

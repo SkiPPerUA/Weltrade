@@ -1,7 +1,7 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.AutorisationPage;
-import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.SettingsPage;
+import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.SettingsMainPage;
 import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.TraderControlPage;
 import ua.kiev.prog.automation.framework.base.Session;
 
@@ -42,7 +42,7 @@ public class task_1563 {
             page.header.userInfo.click();
             page.header.userSettings.click();
 
-            SettingsPage sett = new SettingsPage();
+            SettingsMainPage sett = new SettingsMainPage();
             sett.security.click();
             sett.securitySection.logs.click();
             //Thread.sleep(10000);

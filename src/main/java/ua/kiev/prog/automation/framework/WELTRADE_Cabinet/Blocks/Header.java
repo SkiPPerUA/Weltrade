@@ -14,8 +14,12 @@ public class Header extends BlockObject {
     final public GUILink userInfo = new GUILink(Locator.create(".//div[@class='user-info-profile']"));
     final public GUILink userSettings = new GUILink(Locator.create(".//li/a[@routerlink='/settings']"));
 
+    final public GUILink trader = new GUILink(Locator.create(".//li/a[@routerlink='/trader/']"));
+    final public GUILink traderControl = new GUILink(Locator.create(".//li/a[@routerlink='/trader/control']"));
+
 
     final public GUILink cashier = new GUILink(Locator.create("/html/body/app-root/app-pages/header/app-header/app-main-nav-menu/nav[1]/div/div/ul/li[2]/a"));
+    final public GUILink cashierFinOperation = new GUILink(Locator.create(".//li/a[@routerlink='/cashbox/operations']"));
     final public GUILink cashierHistory = new GUILink(Locator.create(".//li/a[@routerlink='/cashbox/history']"));
 
 
