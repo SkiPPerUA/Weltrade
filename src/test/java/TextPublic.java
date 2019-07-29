@@ -1,10 +1,12 @@
 import org.junit.Assert;
+import org.testng.annotations.Test;
 import ua.kiev.prog.automation.framework.WELTRADE_Publick.MainPage;
 import ua.kiev.prog.automation.framework.base.Locator;
 import ua.kiev.prog.automation.framework.base.Session;
 import ua.kiev.prog.automation.framework.base.Widget;
 
 public class TextPublic {
+
 
     public static void main(String[] args) throws InterruptedException {
 

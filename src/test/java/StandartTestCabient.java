@@ -1,9 +1,10 @@
-import org.junit.Test;
+import org.testng.annotations.Test;
 import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.*;
 import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.Blocks.SettingsSecurityBlock;
 import ua.kiev.prog.automation.framework.base.Session;
 
 public class StandartTestCabient {
+
      public static void main(String[] args) throws InterruptedException {
 
         String local = "http://localhost:4200/auth";

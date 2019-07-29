@@ -1,6 +1,8 @@
 import org.junit.Assert;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.testng.annotations.Test;
 import ua.kiev.prog.automation.framework.WELTRADE_Publick.MainPage;
 import ua.kiev.prog.automation.framework.base.Locator;
 import ua.kiev.prog.automation.framework.base.Session;
@@ -27,7 +29,7 @@ public class LinksPublic extends Assert {
 
         try{
 
-            for(int i = 0; i < 9; i++){
+            for(int i = 8; i < 9; i++){
                 page.confirmPage();
                 page.header.getAllLanguages(i);
                 move.click();

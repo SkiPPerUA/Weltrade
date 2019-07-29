@@ -1,6 +1,7 @@
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.testng.annotations.Test;
 import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.AutorisationPage;
 import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.TraderControlPage;
 import ua.kiev.prog.automation.framework.base.Locator;
@@ -9,6 +10,7 @@ import ua.kiev.prog.automation.framework.base.Widget;
 import ua.kiev.prog.automation.framework.base.widget.GUILink;
 
 public class TextCabinet {
+
 
     public static void main(String[] args) throws InterruptedException {
 

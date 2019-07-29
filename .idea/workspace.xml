@@ -2,55 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17cae4f9-d2a7-408e-bbeb-db3f86594c33" name="Default" comment="com-6">
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/TraderControlAccountsBlock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountInfoPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/SettingsMainPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/StandartTestCabient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-12-32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-06" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-23" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-42" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-16-15-51" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-18-16-53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-18-16-55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-18-16-59" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-18-17-00" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-18-17-02" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-18-17-05" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-18-17-08" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-18-17-09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-19-11-36" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-19-11-37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-19-11-41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-19-11-43" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-19-11-45" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-07-19-11-47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/MainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LinksPublic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LinksPublic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TextCabinet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TextCabinet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TextPublic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TextPublic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TitlePublic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TitlePublic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/MainPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/LinksPublic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LinksPublic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StandartTestCabient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StandartTestCabient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TextCabinet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TextCabinet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TextPublic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TextPublic.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TitlePublic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TitlePublic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task_1430.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task_1563.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task_1568.class" beforeDir="false" />
     </list>
     <list id="cf75c754-fb12-42f6-b30b-73b3bd070617" name="com" comment="com&#10;&#10;(cherry picked from commit f7d45ad4872c69a4639399495ed1b0514fa3fb4d)">
       <changelist_data name="Skipper" email="savchukvi12@gmail.com" date="1560448738000" />
@@ -74,11 +39,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LinksPublic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="225">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,101 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SessionJUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/base/Session.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testheagercabinet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SessionTestNGTest.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LinksPublic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TitlePublic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TextPublic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="47" column="51" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -210,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/blocks/category/CategoryItemWidget.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/blocks/category/BoardItemWidget.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/TopicsPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/TopicListPage.java" />
@@ -240,7 +114,6 @@
         <option value="$PROJECT_DIR$/src/test/java/task_1568.java" />
         <option value="$PROJECT_DIR$/src/test/java/task_1430.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/TextCabinet.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierHistoryPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/SettingsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/testheagercabinet.java" />
@@ -255,12 +128,14 @@
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/MainPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TitlePublic.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TextPublic.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LinksPublic.java" />
-        <option value="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" />
         <option value="$PROJECT_DIR$/src/test/java/SessionTestNGTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LinksPublicTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TextCabinet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TextPublic.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TitlePublic.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LinksPublic.java" />
       </list>
     </option>
   </component>
@@ -378,7 +253,7 @@
     <property name="FullScreen" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564396319291" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564396833143" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="dynamic.classpath" value="false" />
@@ -409,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.testTest.testMain">
+  <component name="RunManager" selected="Application.LinksPublic">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -487,14 +362,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_1563" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_1563" />
-      <module name="automation-framework" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -519,6 +386,19 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinksPublic.main" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinksPublic" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -555,11 +435,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.testTest.testMain" />
         <item itemvalue="Application.LinksPublic" />
+        <item itemvalue="TestNG.LinksPublic.main" />
+        <item itemvalue="TestNG.testTest.testMain" />
         <item itemvalue="Application.StandartTestCabient" />
         <item itemvalue="JUnit.SessionJUnitTest.closeTest" />
-        <item itemvalue="Application.task_1563" />
       </list>
     </recent_temporary>
   </component>
@@ -588,7 +468,7 @@
       <workItem from="1563176624986" duration="755000" />
       <workItem from="1563778007498" duration="7938000" />
       <workItem from="1563975252948" duration="8156000" />
-      <workItem from="1564382958809" duration="3903000" />
+      <workItem from="1564382958809" duration="4452000" />
     </task>
     <task id="LOCAL-00001" summary="com">
       <created>1560448741264</created>
@@ -674,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564044500426</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="com-6">
+      <created>1564396331306</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1564396331307</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -690,9 +577,21 @@
     <history-entry file="testTest_testMain - 2019.07.29 at 13h 21m 34s.xml">
       <configuration name="testTest.testMain" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="LinksPublic_main - 2019.07.29 at 13h 37m 44s.xml">
+      <configuration name="LinksPublic.main" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LinksPublic_main - 2019.07.29 at 13h 38m 44s.xml">
+      <configuration name="LinksPublic.main" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LinksPublic_main - 2019.07.29 at 13h 39m 36s.xml">
+      <configuration name="LinksPublic.main" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LinksPublic_main - 2019.07.29 at 13h 40m 01s.xml">
+      <configuration name="LinksPublic.main" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73938000" />
+    <option name="totallyTimeSpent" value="74487000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -707,7 +606,7 @@
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.15921193" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.15921193" />
       <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.15921193" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -717,7 +616,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284974" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -741,26 +640,26 @@
       <window_info anchor="right" id="Maven" order="9" weight="0.3290735" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14962727" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.15921193" />
+      <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.15921193" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Favorites" order="4" sideWeight="0.5007728" side_tool="true" weight="0.15921193" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284974" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32970452" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.43390357" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.43316063" />
       <window_info anchor="bottom" id="Application Servers" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.280829" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26632124" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32970452" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32953367" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -772,7 +671,7 @@
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.31164902" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.32928804" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.3290735" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -832,22 +731,12 @@
     <MESSAGE value="com-3" />
     <MESSAGE value="com-4" />
     <MESSAGE value="com-5" />
-    <MESSAGE value="com-6" />
     <MESSAGE value="com-7" />
     <MESSAGE value="com-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="com-8" />
+    <MESSAGE value="com-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="com-6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/blocks/category/CategoryBoardBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="41" column="40" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/blocks/category/TopicMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -960,13 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="58" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TextCabinet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -1139,53 +1021,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TitlePublic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TextPublic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="47" column="51" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SessionTestNGTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1204,13 +1039,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SessionJUnitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1234,10 +1062,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Blocks/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LinksPublicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SessionTestNGTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TextCabinet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TextPublic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TitlePublic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SessionJUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LinksPublic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
