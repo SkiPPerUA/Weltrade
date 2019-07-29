@@ -44,8 +44,8 @@ public class TextPublic {
                 if (i == 2 || i == 4){
                     continue;}
 
-                mainPage.header.languages.click();
-                mainPage.header.getAllLanguages(i).click();
+
+                mainPage.header.getAllLanguages(i);
                 Assert.assertEquals(newText[i],text.getText());
                 System.out.println(mainPage.header.getNameLangauge(i) + " - ОК");
 

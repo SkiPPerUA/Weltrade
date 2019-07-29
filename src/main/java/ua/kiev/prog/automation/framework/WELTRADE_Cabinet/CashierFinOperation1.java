@@ -25,7 +25,7 @@ public class CashierFinOperation1 extends PageObject {
     final public GUIButton targetAccount = new GUIButton(Locator.create(".//div[4]/div[2]/mat-form-field"));
     final public GUITextBox summ = new GUITextBox(Locator.create(".//div[5]/div[2]/input[@type='text']"));
 
-    final public GUIButton createInvoice = new GUIButton(Locator.create(".//button[@class='ng-star-inserted wt-btn blue']"));
+    final public GUIButton createInvoiceButton = new GUIButton(Locator.create(".//button[@class='ng-star-inserted wt-btn blue']"));
 
 
     // (tp) 1 - пополнение; 2 - вывод; 3 - перевод;

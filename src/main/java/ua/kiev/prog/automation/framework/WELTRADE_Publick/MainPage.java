@@ -11,7 +11,7 @@ public class MainPage extends PageObject
 
     @Override
     protected Locator readyLocator() {
-        return Locator.create(".//*[@id='content-main']/div/a");
+        return Locator.create(".//*[@id='content-main']/div/a[@class='main-btn-green']");
     }
 
 

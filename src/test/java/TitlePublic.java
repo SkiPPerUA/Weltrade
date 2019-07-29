@@ -40,8 +40,8 @@ public class TitlePublic {
         try{
             for (int i = 3; i < waitTitle.length; i++){
                 if (i == 3 || i == 5 || i == 7){
-                    page.header.languages.click();
-                    page.header.getAllLanguages(i).click();
+
+                    page.header.getAllLanguages(i);
                     Assert.assertEquals(waitTitle[i],Session.get().driver().getTitle());
                     System.out.println(page.header.getNameLangauge(i) + " - OK");
 

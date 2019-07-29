@@ -1,7 +1,0 @@
-2019-07-19 11:43:25 DEBUG GUITextBox:14 - Set value "savchukvi12@gmail.com" for By.xpath: .//input[@formcontrolname = 'email']
-2019-07-19 11:43:26 DEBUG GUITextBox:14 - Set value "4766147sv" for By.xpath: .//input[@formcontrolname = 'password']
-2019-07-19 11:43:26 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-authorization/div/section/app-default-authorization/section/div/div/div[1]/div/div[1]/div/form/div/button
-2019-07-19 11:43:27 DEBUG TraderControlPage:21 - Confirm page
-2019-07-19 11:43:30 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col d-lg-flex d-none justify-content-end ']/button[@class='wt-btn blue ml-3']
-2019-07-19 11:43:30 DEBUG GUILink:14 - Click By.xpath: /html/body/app-root/app-pages/header/app-header/app-main-nav-menu/nav[1]/div/div/ul/li[2]/a
-2019-07-19 11:43:31 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/cashbox/safe']
