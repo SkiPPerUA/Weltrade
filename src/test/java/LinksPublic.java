@@ -19,7 +19,7 @@ public class LinksPublic extends Assert {
         String dev = "http://wt23.dev.weltrade.com.ua";
         String prod = "http://www.weltrade.com.ua";
 
-        Session.get().driver().get(dev);
+        Session.get().driver().get(prod);
 
         MainPage page = new MainPage();
 
@@ -29,15 +29,27 @@ public class LinksPublic extends Assert {
 
         try{
 
-            for(int i = 8; i < 9; i++){
-                page.confirmPage();
+            for(int i = 0; i < 9; i++){
                 page.header.getAllLanguages(i);
-                move.click();
-                System.out.println(page.header.getNameLangauge(i));
-                System.out.println(Session.get().driver().getCurrentUrl());
-                System.out.println("----------------------");
-                page.header.logo.click();
+               page.header.promotions.moveCursorToElement();
+               List<WebElement> el = Session.get().driver().findElements(By.xpath("/html/body/header/div[2]/div/nav/ul/li[5]/div/ul/li/a"));
 
+               for(int t = 1; t <= el.size();t++){
+
+                   page.header.promotions.moveCursorToElement();
+
+
+                   GUILink ele = new GUILink(Locator.create("/html/body/header/div[2]/div/nav/ul/li[5]/div/ul/li["+t+"]/a")) ;
+                   ele.click();
+
+
+                   Thread.sleep(5000);
+                   System.out.println(page.header.getNameLangauge(i));
+                   System.out.println(Session.get().driver().getCurrentUrl());
+
+               }
+
+                System.out.println("----------------------------");
 
             }
 
