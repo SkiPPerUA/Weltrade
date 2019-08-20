@@ -39,10 +39,11 @@ public class Header extends BlockObject {
         return allNameLanguages[x];
     }
 
-    public GUILink getAllLanguages(int i){
+    public void getAllLanguages(int i){
 
+        this.language.click();
         GUILink [] all = {this.languageEng,this.languageThai,this.languageRus,this.languageInd,this.languageEsp,this.languageVn,this.languageLao,this.languageMs,this.languageCn};
-        return all[i];
+        all[i].click();
 
     }
 }

@@ -48,7 +48,7 @@ public class TextCabinet {
             for (int i = 0; i < newText.length; i++) {
 
                 pageloged.header.language.click();
-                pageloged.header.getAllLanguages(i).click();
+                pageloged.header.getAllLanguages(i);
                 //Assert.assertEquals(newText[i], text.getText());
                 System.out.print(pageloged.header.getNameLangauge(i));
                 //Thread.sleep(3000);

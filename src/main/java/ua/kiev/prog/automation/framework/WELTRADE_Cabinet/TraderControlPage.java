@@ -9,7 +9,7 @@ import ua.kiev.prog.automation.framework.base.widget.GUIButton;
 public class TraderControlPage extends PageObject {
     @Override
     protected Locator readyLocator() {
-        return Locator.create(".//button[@class='settings mb-md-0 mb-3 mt-1 ng-star-inserted']");
+        return Locator.create(".//div[1]/div[2]/app-switcher/div/div");
     }
 
     final public Header header = new Header();

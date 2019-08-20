@@ -24,7 +24,7 @@ public class AllTitlePublic extends Assert {
             String [] mail = {"https://www.weltrade.com.ua/","https://www.weltrade.kz/","https://bel.weltrade.com/"};
             int y = 0;
 
-            for(int r = 0; r < 12; r++) {
+            for(int r = 5; r < 12; r++) {
 
                 List<WebElement> group = null;
                 if (r < 9) {
@@ -52,7 +52,7 @@ public class AllTitlePublic extends Assert {
 
                     for (int t = 1; t <= comp.size(); t++) {
 
-                        if (i == 5 && t == 1) {
+                        if (i == 5) {
                             op.moveCursorToElement();
                             GUILink lin = new GUILink(Locator.create("/html/body/header/div[2]/div/nav/ul/li[" + i + "]/div/ul/li[" + t + "]/a"));
                             lin.click();

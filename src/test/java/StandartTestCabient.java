@@ -60,10 +60,10 @@ public class StandartTestCabient {
                 fin.confirmPage();
 
                 fin.setTypeOperation(1);
-                fin.setPaySystem("Visa/Mastercard");
-                fin.setPayCurrency("USD");
-                fin.setTargetAccount("503369"); //"508369"
-                fin.summ.setValue("500");
+                fin.setPaySystemDeposit("Visa/Mastercard");
+                fin.setPayCurrencyDeposit("USD");
+                fin.setTargetAccountDeposit(accNum); //"508369" - prod:   "503369" - dev
+                fin.summDeposit.setValue("500");
                 fin.createInvoiceButton.click();
 
              CashierFinOperation2 conf = new CashierFinOperation2();
