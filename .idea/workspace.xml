@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17cae4f9-d2a7-408e-bbeb-db3f86594c33" name="Default" comment="com-8">
+    <list default="true" id="17cae4f9-d2a7-408e-bbeb-db3f86594c33" name="Default" comment="refactor">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Deposit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WithdrawalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WithdrawalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/WithdrawalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WithdrawalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testcab.class" beforeDir="false" />
     </list>
     <list id="cf75c754-fb12-42f6-b30b-73b3bd070617" name="com" comment="com&#10;&#10;(cherry picked from commit f7d45ad4872c69a4639399495ed1b0514fa3fb4d)">
       <changelist_data name="Skipper" email="savchukvi12@gmail.com" date="1560448738000" />
@@ -49,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="914">
-              <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+            <state relative-caret-position="532">
+              <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,6 +58,27 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="541">
               <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Deposit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SessionTestNGTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,7 +124,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/Header.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
+            <state relative-caret-position="510">
               <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -129,23 +145,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-446">
+            <state relative-caret-position="615">
               <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AllTitlePublic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,8 +162,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TestNG Test Class" />
         <option value="Class" />
+        <option value="TestNG Test Class" />
       </list>
     </option>
   </component>
@@ -175,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/blocks/category/CategoryBoardBlock.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/blocks/category/TopicMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/App.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -226,6 +229,7 @@
         <option value="$PROJECT_DIR$/src/test/java/WithdrawalTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Deposit.java" />
       </list>
     </option>
   </component>
@@ -321,25 +325,6 @@
               <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
               <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="WELTRADE_Publick" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="WELTRADE_Publick" type="462c0819:PsiDirectoryNode" />
-              <item name="Blocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -362,7 +347,7 @@
     <property name="FullScreen" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566371513230" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566373469686" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="dynamic.classpath" value="false" />
@@ -393,7 +378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WithdrawalTest">
+  <component name="RunManager" selected="TestNG.Deposit">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -449,24 +434,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Game" />
-      <module name="automation-framework" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StandartTestCabient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StandartTestCabient" />
-      <module name="automation-framework" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextPublic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextPublic" />
       <module name="automation-framework" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -512,6 +481,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Deposit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Deposit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deposit.testMain" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Deposit" />
+      <option name="METHOD_NAME" value="testMain" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <properties />
@@ -531,11 +524,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Deposit" />
+        <item itemvalue="TestNG.Deposit.testMain" />
         <item itemvalue="Application.WithdrawalTest" />
         <item itemvalue="Application.testcab" />
         <item itemvalue="Application.StandartTestCabient" />
-        <item itemvalue="Application.TextPublic" />
-        <item itemvalue="Application.Game" />
       </list>
     </recent_temporary>
   </component>
@@ -566,7 +559,7 @@
       <workItem from="1563975252948" duration="8156000" />
       <workItem from="1564382958809" duration="19514000" />
       <workItem from="1564987809871" duration="8569000" />
-      <workItem from="1566196864675" duration="7017000" />
+      <workItem from="1566196864675" duration="8879000" />
     </task>
     <task id="LOCAL-00001" summary="com">
       <created>1560448741264</created>
@@ -680,25 +673,17 @@
       <option name="project" value="LOCAL" />
       <updated>1566311154868</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="refactor">
+      <created>1566372132053</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1566372132053</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SessionTestNGTest_smokeTest - 2019.06.13 at 20h 39m 57s.xml">
-      <configuration name="SessionTestNGTest.smokeTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SessionTestNGTest_smokeTest - 2019.06.20 at 20h 56m 58s.xml">
-      <configuration name="SessionTestNGTest.smokeTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SessionJUnitTest_closeTest - 2019.07.29 at 13h 03m 34s.xml">
-      <configuration name="SessionJUnitTest.closeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testTest_testMain - 2019.07.29 at 13h 21m 34s.xml">
-      <configuration name="testTest.testMain" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LinksPublic_main - 2019.07.29 at 13h 37m 44s.xml">
-      <configuration name="LinksPublic.main" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="LinksPublic_main - 2019.07.29 at 13h 38m 44s.xml">
       <configuration name="LinksPublic.main" configurationId="TestNG" />
     </history-entry>
@@ -711,9 +696,27 @@
     <history-entry file="LinksPublic_main - 2019.07.29 at 13h 40m 15s.xml">
       <configuration name="LinksPublic.main" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="Deposit_testMain - 2019.08.21 at 10h 29m 48s.xml">
+      <configuration name="Deposit.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Deposit_testMain - 2019.08.21 at 10h 35m 15s.xml">
+      <configuration name="Deposit.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Deposit_testMain - 2019.08.21 at 10h 36m 15s.xml">
+      <configuration name="Deposit.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Deposit_testMain - 2019.08.21 at 10h 37m 34s.xml">
+      <configuration name="Deposit.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Deposit - 2019.08.21 at 10h 38m 56s.xml">
+      <configuration name="Deposit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Deposit - 2019.08.21 at 10h 41m 18s.xml">
+      <configuration name="Deposit" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105135000" />
+    <option name="totallyTimeSpent" value="106997000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,7 +729,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.16240682" />
       <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.15921193" />
@@ -738,14 +740,14 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284974" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.43316063" />
       <window_info anchor="bottom" id="Application Servers" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.26632124" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26632124" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32953367" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -857,23 +859,14 @@
     <MESSAGE value="com-6" />
     <MESSAGE value="new" />
     <MESSAGE value="com-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="com-8" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/TraderTools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/debug.log.2019-07-15-13-36" />
     <entry file="file://$PROJECT_DIR$/debug.log.2019-07-15-17-00" />
     <entry file="file://$PROJECT_DIR$/debug.log.2019-07-15-16-38" />
@@ -1038,16 +1031,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LinksPublicTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/SessionTestNGTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SessionJUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1149,16 +1132,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/Header.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testcab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1169,10 +1142,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="914">
-          <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+        <state relative-caret-position="532">
+          <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SessionTestNGTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1189,13 +1192,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Deposit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-446">
-          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="510">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
