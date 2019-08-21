@@ -26,12 +26,7 @@ public class WithdrawalTest {
             CashierFinOperation1 fin1 = new CashierFinOperation1();
             fin1.confirmPage();
 
-            fin1.setTypeOperation(2);
-            fin1.setTargetAccountWithdrawal("SAFE");
-            fin1.setPaySystemWithdrawal("QIWI");
-            fin1.setWalletWithdrawal("79415645641");
-            fin1.summWithdrawal.setValue("100");
-            fin1.createInvoiceButton.click();
+            fin1.createWithdrawalInvoice(2,"SAFE","QIWI","79415645641","100");
 
             CashierFinOperation2 fin2 = new CashierFinOperation2();
             fin2.confirmPage();

@@ -59,12 +59,8 @@ public class StandartTestCabient {
             CashierFinOperation1 fin = new CashierFinOperation1();
                 fin.confirmPage();
 
-                fin.setTypeOperation(1);
-                fin.setPaySystemDeposit("Visa/Mastercard");
-                fin.setPayCurrencyDeposit("USD");
-                fin.setTargetAccountDeposit(accNum); //"508369" - prod:   "503369" - dev
-                fin.summDeposit.setValue("500");
-                fin.createInvoiceButton.click();
+                //"508369" - prod:   "503369" - dev
+                fin.createDepositInvoice(1,"Visa/Mastercard", "USD", accNum, "500");
 
              CashierFinOperation2 conf = new CashierFinOperation2();
                 conf.confirmPage();
