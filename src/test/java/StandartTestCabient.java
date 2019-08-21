@@ -3,14 +3,20 @@ import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.*;
 import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.Blocks.SettingsSecurityBlock;
 import ua.kiev.prog.automation.framework.base.Session;
 
+import static org.testng.Assert.*;
+
 public class StandartTestCabient {
 
-     public static void main(String[] args) throws InterruptedException {
-
+    @Test
+    public void testMain() throws InterruptedException {
         String local = "http://localhost:4200/auth";
         String prod = "https://account.weltrade.com/auth/login";
 
-        String http =local;
+
+
+        String http = local; // ------> адресс
+
+
 
         Session.get().driver().get(http);
 
@@ -19,9 +25,9 @@ public class StandartTestCabient {
             auth.confirmPage();
 
             if(http.equalsIgnoreCase(prod)){
-            auth.loginInCabinet("savchukvi12@gmail.com","4766147sv");}
+                auth.loginInCabinet("savchukvi12@gmail.com","4766147sv");}
             else {
-            auth.loginInCabinet("cyndap-49@bigmir.net","123qaz");}
+                auth.loginInCabinet("cyndap-49@bigmir.net","123qaz");}
 
             TraderControlPage page = new TraderControlPage();
             page.confirmPage();
@@ -57,21 +63,18 @@ public class StandartTestCabient {
             page.header.cashier.click();
             page.header.cashierFinOperation.click();
             CashierFinOperation1 fin = new CashierFinOperation1();
-                fin.confirmPage();
+            fin.confirmPage();
 
-                //"508369" - prod:   "503369" - dev
-                fin.createDepositInvoice(1,"Visa/Mastercard", "USD", accNum, "500");
+            //"508369" - prod:   "503369" - dev
+            fin.createDepositInvoice(1,"Visa/Mastercard", "USD", accNum, "500");
 
-             CashierFinOperation2 conf = new CashierFinOperation2();
-                conf.confirmPage();
-                conf.confirmButton.click();
+            CashierFinOperation2 conf = new CashierFinOperation2();
+            conf.confirmPage();
+            conf.confirmButton.click();
 
 
         }finally {
             Session.get().close();
         }
-
-
-
     }
 }

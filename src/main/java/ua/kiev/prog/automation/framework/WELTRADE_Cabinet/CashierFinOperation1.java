@@ -14,7 +14,7 @@ public class CashierFinOperation1 extends PageObject {
 
     @Override
     protected Locator readyLocator() {
-        return Locator.create(".//div[@class='operations-body']");
+        return Locator.create("/html/body/app-root/app-pages/main/app-operations/section/div/app-operations-deposit/div/div[1]/div/div/div[1]/div/div[4]/div[2]/mat-form-field/div/div[1]/div");
     }
 
     final public Header header = new Header();
@@ -38,6 +38,7 @@ public class CashierFinOperation1 extends PageObject {
 
     // (tp) 1 - пополнение; 2 - вывод; 3 - перевод;
     private void setTypeOperation(int tp) throws InterruptedException {
+        Thread.sleep(1000);
         typeOperation.click();
         Thread.sleep(1000);
         WebElement a = Session.get().driver().findElement(By.xpath(".//div/mat-option["+tp+"]"));

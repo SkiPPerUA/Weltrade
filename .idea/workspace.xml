@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17cae4f9-d2a7-408e-bbeb-db3f86594c33" name="Default" comment="refactor">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-08-21-10-11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-08-21-10-12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-08-21-10-29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-08-21-10-34" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-08-21-10-35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-08-21-10-36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-08-21-10-37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-08-21-10-38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-08-21-10-40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Deposit.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StandartTestCabient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StandartTestCabient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WithdrawalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WithdrawalTest.class" afterDir="false" />
     </list>
     <list id="cf75c754-fb12-42f6-b30b-73b3bd070617" name="com" comment="com&#10;&#10;(cherry picked from commit f7d45ad4872c69a4639399495ed1b0514fa3fb4d)">
       <changelist_data name="Skipper" email="savchukvi12@gmail.com" date="1560448738000" />
@@ -41,14 +56,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="53" column="42" lean-forward="true" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/debug.log.2019-08-21-14-46">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/debug.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -56,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/WithdrawalTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
+            <state relative-caret-position="555">
               <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -65,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Deposit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="525">
+              <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -81,41 +107,6 @@
               <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TextCabinet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/TraderControlPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,8 +139,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            <state relative-caret-position="-124">
+              <caret line="48" column="78" lean-forward="true" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -179,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/blocks/category/TopicMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/App.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/java/SessionJUnitTest.java" />
@@ -227,9 +217,10 @@
         <option value="$PROJECT_DIR$/src/test/java/testcab.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/Header.java" />
         <option value="$PROJECT_DIR$/src/test/java/WithdrawalTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" />
         <option value="$PROJECT_DIR$/src/test/java/Deposit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StandartTestCabient1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" />
       </list>
     </option>
   </component>
@@ -347,7 +338,7 @@
     <property name="FullScreen" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566373469686" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566389184836" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="dynamic.classpath" value="false" />
@@ -378,7 +369,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Deposit">
+  <component name="RunManager" selected="TestNG.StandartTestCabient.testMain">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -430,14 +421,6 @@
       <option name="MAIN_CLASS_NAME" value="ua.kiev.prog.automation.framework.App" />
       <module name="automation-framework" />
       <option name="WORKING_DIRECTORY" value="file://./" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StandartTestCabient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StandartTestCabient" />
-      <module name="automation-framework" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -505,6 +488,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StandartTestCabient.testMain" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StandartTestCabient" />
+      <option name="METHOD_NAME" value="testMain" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <properties />
@@ -524,11 +520,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.StandartTestCabient.testMain" />
         <item itemvalue="TestNG.Deposit" />
         <item itemvalue="TestNG.Deposit.testMain" />
         <item itemvalue="Application.WithdrawalTest" />
         <item itemvalue="Application.testcab" />
-        <item itemvalue="Application.StandartTestCabient" />
       </list>
     </recent_temporary>
   </component>
@@ -559,7 +555,7 @@
       <workItem from="1563975252948" duration="8156000" />
       <workItem from="1564382958809" duration="19514000" />
       <workItem from="1564987809871" duration="8569000" />
-      <workItem from="1566196864675" duration="8879000" />
+      <workItem from="1566196864675" duration="10765000" />
     </task>
     <task id="LOCAL-00001" summary="com">
       <created>1560448741264</created>
@@ -680,31 +676,17 @@
       <option name="project" value="LOCAL" />
       <updated>1566372132053</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="refactor">
+      <created>1566375636688</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1566375636688</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LinksPublic_main - 2019.07.29 at 13h 38m 44s.xml">
-      <configuration name="LinksPublic.main" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LinksPublic_main - 2019.07.29 at 13h 39m 36s.xml">
-      <configuration name="LinksPublic.main" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LinksPublic_main - 2019.07.29 at 13h 40m 01s.xml">
-      <configuration name="LinksPublic.main" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LinksPublic_main - 2019.07.29 at 13h 40m 15s.xml">
-      <configuration name="LinksPublic.main" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Deposit_testMain - 2019.08.21 at 10h 29m 48s.xml">
-      <configuration name="Deposit.testMain" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Deposit_testMain - 2019.08.21 at 10h 35m 15s.xml">
-      <configuration name="Deposit.testMain" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Deposit_testMain - 2019.08.21 at 10h 36m 15s.xml">
-      <configuration name="Deposit.testMain" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Deposit_testMain - 2019.08.21 at 10h 37m 34s.xml">
       <configuration name="Deposit.testMain" configurationId="TestNG" />
     </history-entry>
@@ -714,9 +696,30 @@
     <history-entry file="Deposit - 2019.08.21 at 10h 41m 18s.xml">
       <configuration name="Deposit" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="StandartTestCabient_testMain - 2019.08.21 at 14h 46m 51s.xml">
+      <configuration name="StandartTestCabient.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="StandartTestCabient_testMain - 2019.08.21 at 14h 49m 40s.xml">
+      <configuration name="StandartTestCabient.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="StandartTestCabient_testMain - 2019.08.21 at 14h 54m 16s.xml">
+      <configuration name="StandartTestCabient.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="StandartTestCabient_testMain - 2019.08.21 at 14h 55m 19s.xml">
+      <configuration name="StandartTestCabient.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="StandartTestCabient_testMain - 2019.08.21 at 14h 58m 08s.xml">
+      <configuration name="StandartTestCabient.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="StandartTestCabient_testMain - 2019.08.21 at 14h 59m 01s.xml">
+      <configuration name="StandartTestCabient.testMain" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="StandartTestCabient_testMain - 2019.08.21 at 15h 02m 24s.xml">
+      <configuration name="StandartTestCabient.testMain" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106997000" />
+    <option name="totallyTimeSpent" value="108883000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -764,7 +767,7 @@
       <window_info anchor="right" id="Maven" order="9" weight="0.3290735" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.15921193" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.16240682" />
       <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.15921193" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -774,24 +777,24 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284974" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.43316063" />
       <window_info anchor="bottom" id="Application Servers" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26632124" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.26632124" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32953367" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Designer" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32960597" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.31164902" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -867,8 +870,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/debug.log.2019-07-15-13-36" />
-    <entry file="file://$PROJECT_DIR$/debug.log.2019-07-15-17-00" />
     <entry file="file://$PROJECT_DIR$/debug.log.2019-07-15-16-38" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1041,14 +1042,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/debug.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/debug.log.2019-07-30-11-07" />
     <entry file="file://$PROJECT_DIR$/debug.log.2019-07-30-11-05" />
     <entry file="file://$PROJECT_DIR$/debug.log.2019-07-30-11-06" />
@@ -1142,30 +1135,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/Header.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1182,9 +1155,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Deposit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/WithdrawalTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
+        <state relative-caret-position="555">
           <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1192,10 +1172,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Deposit.java">
+    <entry file="file://$PROJECT_DIR$/debug.log.2019-08-21-14-46">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="601">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="48" column="78" lean-forward="true" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="53" column="42" lean-forward="true" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
         </state>
       </provider>
     </entry>

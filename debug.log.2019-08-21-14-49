@@ -1,0 +1,30 @@
+2019-08-21 14:49:05 DEBUG AutorisationPage:21 - Confirm page
+2019-08-21 14:49:09 DEBUG GUITextBox:14 - Set value "cyndap-49@bigmir.net" for By.xpath: .//input[@formcontrolname = 'email']
+2019-08-21 14:49:14 DEBUG GUITextBox:14 - Set value "123qaz" for By.xpath: .//input[@formcontrolname = 'password']
+2019-08-21 14:49:15 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-authorization/div/section/app-default-authorization/section/div/div/div[1]/div/div[1]/div/form/div/button
+2019-08-21 14:49:15 DEBUG TraderControlPage:21 - Confirm page
+2019-08-21 14:49:21 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col d-lg-flex d-none justify-content-end ']/button[@class='wt-btn blue ml-3']
+2019-08-21 14:49:23 DEBUG OpenAccountPage:21 - Confirm page
+2019-08-21 14:49:24 DEBUG GUIButton:14 - Click By.xpath: .//nav/ul/li/a[text()='PREMIUM']
+2019-08-21 14:49:25 DEBUG GUIButton:14 - Click By.xpath: .//div[1]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select
+2019-08-21 14:49:25 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[2]/div[2]/mat-form-field
+2019-08-21 14:49:26 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[3]/div[2]/mat-form-field/div/div[1]/div
+2019-08-21 14:49:27 DEBUG GUIButton:14 - Click By.xpath: .//div[2]/button[@class='wt-btn green']
+2019-08-21 14:49:28 DEBUG OpenAccountInfoPage:21 - Confirm page
+2019-08-21 14:49:28 DEBUG Widget:75 - Get text for locator ( By.xpath: .//div[@class='col-sm-6 d-flex align-items-center justify-content-sm-start justify-content-between']/span[1] ) - result: 14000041
+2019-08-21 14:49:28 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/trader/']
+2019-08-21 14:49:28 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/trader/control']
+2019-08-21 14:49:29 DEBUG TraderControlPage:21 - Confirm page
+2019-08-21 14:49:30 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col d-lg-flex d-none justify-content-end ']/button[@class='wt-btn blue ml-3']
+2019-08-21 14:49:31 DEBUG GUIButton:14 - Click By.xpath: .//nav/ul/li/a[text()='PRO']
+2019-08-21 14:49:32 DEBUG GUIButton:14 - Click By.xpath: .//div[1]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select
+2019-08-21 14:49:33 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[2]/div[2]/mat-form-field
+2019-08-21 14:49:33 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[3]/div[2]/mat-form-field/div/div[1]/div
+2019-08-21 14:49:34 DEBUG GUIButton:14 - Click By.xpath: .//div[2]/button[@class='wt-btn green']
+2019-08-21 14:49:35 DEBUG GUILink:14 - Click By.xpath: .//div[@class='user-info-profile']
+2019-08-21 14:49:35 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/settings']
+2019-08-21 14:49:36 DEBUG GUIButton:14 - Click By.xpath: .//li/a[@routerlink='security']
+2019-08-21 14:49:37 DEBUG GUILink:14 - Click By.xpath: /html/body/app-root/app-pages/header/app-header/app-main-nav-menu/nav[1]/div/div/ul/li[2]/a
+2019-08-21 14:49:37 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/cashbox/operations']
+2019-08-21 14:49:38 DEBUG CashierFinOperation1:21 - Confirm page
+2019-08-21 14:49:38 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-deposit/div/div[1]/div/div/div[1]/div/div[1]/div[2]/mat-form-field

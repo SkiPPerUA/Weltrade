@@ -1,0 +1,3 @@
+2019-08-21 14:53:50 DEBUG AutorisationPage:21 - Confirm page
+2019-08-21 14:53:55 DEBUG GUITextBox:14 - Set value "cyndap-49@bigmir.net" for By.xpath: .//input[@formcontrolname = 'email']
+2019-08-21 14:53:59 DEBUG GUITextBox:14 - Set value "123qaz" for By.xpath: .//input[@formcontrolname = 'password']
