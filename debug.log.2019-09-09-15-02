@@ -1,0 +1,25 @@
+2019-09-09 15:02:01 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 14.67459
+2019-09-09 15:02:01 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[1]/a
+2019-09-09 15:02:03 DEBUG GUIButton:14 - Click By.xpath: .//form/div/div[1]/div/div/a
+2019-09-09 15:02:04 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[3]/div/div/div/div[1]/form/div/div[2]/div/div/a
+2019-09-09 15:02:06 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col-md-5 col-sm-2']/button
+2019-09-09 15:02:07 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[6]/a
+2019-09-09 15:02:11 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-09-09 15:02:16 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 18.19600
+2019-09-09 15:02:16 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[1]/a
+2019-09-09 15:02:18 DEBUG GUIButton:14 - Click By.xpath: .//form/div/div[1]/div/div/a
+2019-09-09 15:02:19 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[3]/div/div/div/div[1]/form/div/div[2]/div/div/a
+2019-09-09 15:02:21 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col-md-5 col-sm-2']/button
+2019-09-09 15:02:23 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[6]/a
+2019-09-09 15:02:28 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-09-09 15:02:33 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 1510.960
+2019-09-09 15:02:33 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[1]/a
+2019-09-09 15:02:35 DEBUG GUIButton:14 - Click By.xpath: .//form/div/div[1]/div/div/a
+2019-09-09 15:02:36 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[3]/div/div/div/div[1]/form/div/div[2]/div/div/a
+2019-09-09 15:02:37 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col-md-5 col-sm-2']/button
+2019-09-09 15:02:39 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[6]/a
+2019-09-09 15:02:44 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-09-09 15:02:49 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 957.930
+2019-09-09 15:02:49 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[1]/a
+2019-09-09 15:02:51 DEBUG GUIButton:14 - Click By.xpath: .//form/div/div[1]/div/div/a
+2019-09-09 15:02:52 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[3]/div/div/div/div[1]/form/div/div[2]/div/div/a

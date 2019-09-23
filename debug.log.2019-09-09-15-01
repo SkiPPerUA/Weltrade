@@ -1,0 +1,23 @@
+2019-09-09 15:01:07 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[6]/a
+2019-09-09 15:01:12 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-09-09 15:01:17 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 9.65599
+2019-09-09 15:01:18 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[1]/a
+2019-09-09 15:01:20 DEBUG GUIButton:14 - Click By.xpath: .//form/div/div[1]/div/div/a
+2019-09-09 15:01:21 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[3]/div/div/div/div[1]/form/div/div[2]/div/div/a
+2019-09-09 15:01:22 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col-md-5 col-sm-2']/button
+2019-09-09 15:01:24 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[6]/a
+2019-09-09 15:01:27 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-09-09 15:01:32 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 1.37962
+2019-09-09 15:01:32 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[1]/a
+2019-09-09 15:01:34 DEBUG GUIButton:14 - Click By.xpath: .//form/div/div[1]/div/div/a
+2019-09-09 15:01:35 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[3]/div/div/div/div[1]/form/div/div[2]/div/div/a
+2019-09-09 15:01:36 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col-md-5 col-sm-2']/button
+2019-09-09 15:01:38 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[6]/a
+2019-09-09 15:01:41 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-09-09 15:01:46 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 5.72630
+2019-09-09 15:01:46 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[1]/a
+2019-09-09 15:01:48 DEBUG GUIButton:14 - Click By.xpath: .//form/div/div[1]/div/div/a
+2019-09-09 15:01:49 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[3]/div/div/div/div[1]/form/div/div[2]/div/div/a
+2019-09-09 15:01:51 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col-md-5 col-sm-2']/button
+2019-09-09 15:01:53 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[6]/a
+2019-09-09 15:01:56 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div

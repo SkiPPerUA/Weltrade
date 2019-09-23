@@ -15,8 +15,10 @@ public class Calculator extends PageObject {
     }
 
 
-    final public GUIButton typeAccount = new GUIButton(Locator.create(".//form/div/div[1]/div/div/a"));
-    final public GUIButton instrument = new GUIButton(Locator.create("/html/body/section/section/div[3]/div/div/div/div[1]/form/div/div[2]/div/div/a"));
+    private final GUIButton typeAccount = new GUIButton(Locator.create(".//form/div/div[1]/div/div/a"));
+    private final GUIButton instrument = new GUIButton(Locator.create("/html/body/section/section/div[3]/div/div/div/div[1]/form/div/div[2]/div/div/a"));
+
+    final public GUIButton button = new GUIButton(Locator.create(".//div[@class='col-md-5 col-sm-2']/button"));
 
     public void setTypeAccount(String type){
 

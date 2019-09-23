@@ -1,0 +1,2 @@
+2019-09-09 13:05:17 DEBUG GUILink:14 - Click By.xpath: /html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[6]/a
+2019-09-09 13:05:23 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div

@@ -1,8 +1,0 @@
-2019-08-21 10:41:00 DEBUG GUIButton:14 - Click By.xpath: .//div[4]/div[2]/mat-form-field
-2019-08-21 10:41:01 DEBUG GUITextBox:14 - Set value "500" for By.xpath: .//div[5]/div[2]/input[@type='text']
-2019-08-21 10:41:02 DEBUG GUIButton:14 - Click By.xpath: .//button[contains(@class,'wt-btn blue')]
-2019-08-21 10:41:02 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/trader/']
-2019-08-21 10:41:03 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/trader/control']
-2019-08-21 10:41:05 DEBUG GUILink:14 - Click By.xpath: /html/body/app-root/app-pages/header/app-header/app-main-nav-menu/nav[1]/div/div/ul/li[2]/a
-2019-08-21 10:41:06 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/cashbox/operations']
-2019-08-21 10:41:09 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/trader/']

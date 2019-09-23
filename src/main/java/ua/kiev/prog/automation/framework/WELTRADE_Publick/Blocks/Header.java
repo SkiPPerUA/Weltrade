@@ -43,6 +43,7 @@ public class Header extends BlockObject {
 
     final public GUILink instruments = new GUILink(this.getLocator().createChild("/html/body/header/div[2]/div/nav/ul/li[6]/span"));
     final public GUILink tradingCalculator = new GUILink(this.getLocator().createChild("/html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[1]/a"));
+    final public GUILink onlineQuotes = new GUILink(Locator.create("/html/body/header/div[2]/div/nav/ul/li[6]/div/ul/li[6]/a"));
 
     final public GUILink languages = new GUILink(this.getLocator().createChild("/html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div"));
     final public GUILink languageEng = new GUILink(this.getLocator().createChild("/html/body/header/div[1]/div/div/div[3]/div[2]/noindex/div/div/ul/li[@name='en']/a/span[2]"));
