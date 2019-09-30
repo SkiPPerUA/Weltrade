@@ -24,7 +24,7 @@ public class AllTitlePublic extends Assert {
             String [] mail = {"https://www.weltrade.com.ua/","https://www.weltrade.kz/","https://bel.weltrade.com/"};
             int y = 0;
 
-            for(int r = 5; r < 12; r++) {
+            for(int r = 0; r < 12; r++) {
 
                 List<WebElement> group = null;
                 if (r < 9) {
@@ -57,13 +57,13 @@ public class AllTitlePublic extends Assert {
                             GUILink lin = new GUILink(Locator.create("/html/body/header/div[2]/div/nav/ul/li[" + i + "]/div/ul/li[" + t + "]/a"));
                             lin.click();
                             Thread.sleep(5000);
-                            System.out.println(Session.get().driver().getCurrentUrl() + "  ------> " + Session.get().driver().getTitle());
+                            System.out.println(Session.get().driver().getCurrentUrl() /*+ "  ------> " + Session.get().driver().getTitle()*/);
 
                         } else {
                             op.moveCursorToElement();
                             GUILink lin = new GUILink(Locator.create("/html/body/header/div[2]/div/nav/ul/li[" + i + "]/div/ul/li[" + t + "]/a"));
                             lin.click();
-                            System.out.println(Session.get().driver().getCurrentUrl() + "  ------> " + Session.get().driver().getTitle());
+                            System.out.println(Session.get().driver().getCurrentUrl() /*+ "  ------> " + Session.get().driver().getTitle()*/);
 
                         }
 

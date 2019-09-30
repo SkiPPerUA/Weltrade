@@ -30,6 +30,11 @@ public class Footer extends BlockObject {
     final public GUILink risk_desclosure = new GUILink(this.getLocator().createChild("/html/body/footer/div[2]/div/div/div/a[3]"));
     final public GUILink aml_policy = new GUILink(this.getLocator().createChild("/html/body/footer/div[2]/div/div/div/a[4]"));
 
+
+    final public GUILink facebook = new GUILink(Locator.create(".//a/img[@alt='facebook']"));
+    final public GUILink youtube = new GUILink(Locator.create(".//a/img[@alt='youtube']"));
+
+
     final public String phone_number = this.driver().findElement(By.xpath("/html/body/footer/div[1]/div/div/div[1]/p[1]")).getText();
 
     final public String emailCompany = this.driver().findElement(By.xpath("/html/body/footer/div[1]/div/div/div[1]/a")).getText();

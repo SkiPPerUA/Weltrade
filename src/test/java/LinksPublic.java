@@ -43,6 +43,7 @@ public class LinksPublic extends Assert {
                    ele.click();
 
 
+
                    Thread.sleep(5000);
                    System.out.println(page.header.getNameLangauge(i));
                    System.out.println(Session.get().driver().getCurrentUrl());

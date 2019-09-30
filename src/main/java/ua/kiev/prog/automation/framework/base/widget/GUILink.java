@@ -15,4 +15,9 @@ public class GUILink extends Widget
         this.element().click();
         this.waitAction();
     }
+
+    public String getHref(){
+        String x = this.element().getAttribute("href");
+        return x;
+    }
 }
