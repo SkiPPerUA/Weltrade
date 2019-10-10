@@ -88,9 +88,7 @@ public class QuotesPublicTest {
             page.header.tradingCalculator.click();
             Calculator calc = new Calculator();
             calc.readyLocator();
-            calc.setTypeAccount("Premium");
-            calc.setInstrument(quotes[i]);
-            calc.button.click();
+
             Thread.sleep(1000);
 
             WebElement a = Session.get().driver().findElement(By.xpath("/html/body/section/section/div[3]/div/div/div/div[2]/table[1]/tbody/tr[2]/td[7]"));

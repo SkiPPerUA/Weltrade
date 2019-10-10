@@ -14,7 +14,7 @@ public class StandartTestCabient {
 
 
 
-        String http = local; // ------> адресс
+        String http = prod; // ------> адресс
 
 
 
