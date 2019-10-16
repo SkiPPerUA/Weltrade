@@ -1,0 +1,3 @@
+2019-10-10 11:12:42 DEBUG OnlineQuotes:21 - Confirm page
+2019-10-10 11:12:42 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-10-10 11:12:46 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 1.33122

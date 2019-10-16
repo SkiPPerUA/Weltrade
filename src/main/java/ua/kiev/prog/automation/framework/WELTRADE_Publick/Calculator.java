@@ -16,6 +16,7 @@ public class Calculator extends PageObject {
     }
 
 
+
     private final GUIButton typeAccount = new GUIButton(Locator.create("/html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']"));
     private final GUIButton instrument = new GUIButton(Locator.create("/html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div"));
     private final GUITextBox searchTool = new GUITextBox(Locator.create("/html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input"));

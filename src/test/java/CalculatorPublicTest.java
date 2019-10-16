@@ -57,14 +57,15 @@ public class CalculatorPublicTest extends Assert {
                 "USDSGD"	,
                 "USDZAR"	,
                 "USDHKD"	,
-                "USDTRY"	,
-        };
+                "USDTRY"
+
+                        };
 
         String [] tiketTools = {"USDCAD"	,
                 "USDCHF"	,
                 "USDJPY"	,
                 "NZDUSD"	,
-                null	,
+                null		,
                 "USDCHF"	,
                 "USDJPY"	,
                 "USDJPY"	,
@@ -80,19 +81,19 @@ public class CalculatorPublicTest extends Assert {
                 "NZDUSD"	,
                 "USDRUB"	,
                 "USDSEK"	,
-                null	,
+                null		,
                 "AUDUSD"	,
                 "USDCAD"	,
                 "USDCHF"	,
                 "USDJPY"	,
                 "NZDUSD"	,
                 "USDSGD"	,
-                null	,
+                null		,
                 "USDCAD"	,
                 "USDCHF"	,
                 "USDJPY"	,
                 "USDSGD"	,
-                null	,
+                null		,
                 "USDCAD"	,
                 "USDCHF"	,
                 "USDCNH"	,
@@ -107,6 +108,7 @@ public class CalculatorPublicTest extends Assert {
                 "USDZAR"	,
                 "USDHKD"	,
                 "USDTRY"	,
+
         };
 
         String onlineQuotes [] = new String[50];
@@ -123,24 +125,22 @@ public class CalculatorPublicTest extends Assert {
                     Session.get().driver().navigate().to("https://www.weltrade.com.ua/tools/quotes/");
                     quo.confirmPage();
                     quo.setQuotes(tiketTools[i]);
-                    Thread.sleep(3000);
+                    Thread.sleep(4000);
                     onlineQuotes[i] = quo.price.getText();
                 }
 
-                Session.get().driver().navigate().to("http://wt23.dev.weltrade.com/tools/calculator/");
+                Session.get().driver().navigate().to("http://www.weltrade.com.ua/tools/calculator/");
 
                 Calculator calc = new Calculator();
-                //Thread.sleep(3000);
                 calc.confirmPage();
                 calc.culculateForex("premium",calcTools[i],"1","1:500");
-                //Thread.sleep(3000);
                 pipVal[i] = calc.pipValue.getText();
 
             }
 
             System.out.println("Тикеты");
             for (int z = 0; z < pipVal.length; z++){
-            System.out.println(onlineQuotes[z]);
+                System.out.println(onlineQuotes[z]);
             }
 
             System.out.println();
