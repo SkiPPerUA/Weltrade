@@ -1,0 +1,44 @@
+2019-10-16 10:41:03 DEBUG OnlineQuotes:21 - Confirm page
+2019-10-16 10:41:03 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-10-16 10:41:08 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 0.99803
+2019-10-16 10:41:10 DEBUG Calculator:21 - Confirm page
+2019-10-16 10:41:10 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']
+2019-10-16 10:41:11 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), 'premium')]
+2019-10-16 10:41:11 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div
+2019-10-16 10:41:12 DEBUG GUITextBox:14 - Set value "CADCHF" for By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input
+2019-10-16 10:41:13 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[2]/ul/li/a
+2019-10-16 10:41:13 DEBUG GUITextBox:14 - Set value "1" for By.xpath: //*[@id='select-lot']
+2019-10-16 10:41:14 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[1]/div/button/div
+2019-10-16 10:41:15 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), '1:500')]
+2019-10-16 10:41:15 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[2]/button
+2019-10-16 10:41:16 DEBUG GUITextBox:75 - Get text for locator ( By.xpath: /html/body/section/section/div[2]/div[2]/div/div/div[2]/div[2]/p ) - result: 10.01974 USD
+2019-10-16 10:41:21 DEBUG OnlineQuotes:21 - Confirm page
+2019-10-16 10:41:21 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-10-16 10:41:26 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 108.710
+2019-10-16 10:41:28 DEBUG Calculator:21 - Confirm page
+2019-10-16 10:41:28 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']
+2019-10-16 10:41:29 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), 'premium')]
+2019-10-16 10:41:30 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div
+2019-10-16 10:41:30 DEBUG GUITextBox:14 - Set value "CADJPY" for By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input
+2019-10-16 10:41:31 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[2]/ul/li/a
+2019-10-16 10:41:32 DEBUG GUITextBox:14 - Set value "1" for By.xpath: //*[@id='select-lot']
+2019-10-16 10:41:32 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[1]/div/button/div
+2019-10-16 10:41:33 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), '1:500')]
+2019-10-16 10:41:34 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[2]/button
+2019-10-16 10:41:34 DEBUG GUITextBox:75 - Get text for locator ( By.xpath: /html/body/section/section/div[2]/div[2]/div/div/div[2]/div[2]/p ) - result: 9.19879 USD
+2019-10-16 10:41:41 DEBUG OnlineQuotes:21 - Confirm page
+2019-10-16 10:41:41 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-10-16 10:41:46 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 108.710
+2019-10-16 10:41:48 DEBUG Calculator:21 - Confirm page
+2019-10-16 10:41:48 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']
+2019-10-16 10:41:49 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), 'premium')]
+2019-10-16 10:41:49 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div
+2019-10-16 10:41:50 DEBUG GUITextBox:14 - Set value "CHFJPY" for By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input
+2019-10-16 10:41:51 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[2]/ul/li/a
+2019-10-16 10:41:51 DEBUG GUITextBox:14 - Set value "1" for By.xpath: //*[@id='select-lot']
+2019-10-16 10:41:52 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[1]/div/button/div
+2019-10-16 10:41:53 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), '1:500')]
+2019-10-16 10:41:53 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[2]/button
+2019-10-16 10:41:54 DEBUG GUITextBox:75 - Get text for locator ( By.xpath: /html/body/section/section/div[2]/div[2]/div/div/div[2]/div[2]/p ) - result: 9.19879 USD
+2019-10-16 10:41:59 DEBUG OnlineQuotes:21 - Confirm page
+2019-10-16 10:41:59 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div

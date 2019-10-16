@@ -1,0 +1,50 @@
+2019-10-16 10:46:01 DEBUG Calculator:21 - Confirm page
+2019-10-16 10:46:01 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']
+2019-10-16 10:46:01 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), 'premium')]
+2019-10-16 10:46:02 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div
+2019-10-16 10:46:03 DEBUG GUITextBox:14 - Set value "GBPAUD" for By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input
+2019-10-16 10:46:03 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[2]/ul/li/a
+2019-10-16 10:46:04 DEBUG GUITextBox:14 - Set value "1" for By.xpath: //*[@id='select-lot']
+2019-10-16 10:46:05 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[1]/div/button/div
+2019-10-16 10:46:05 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), '1:500')]
+2019-10-16 10:46:06 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[2]/button
+2019-10-16 10:46:06 DEBUG GUITextBox:75 - Get text for locator ( By.xpath: /html/body/section/section/div[2]/div[2]/div/div/div[2]/div[2]/p ) - result: 6.73570 USD
+2019-10-16 10:46:12 DEBUG OnlineQuotes:21 - Confirm page
+2019-10-16 10:46:12 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-10-16 10:46:17 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 1.32062
+2019-10-16 10:46:19 DEBUG Calculator:21 - Confirm page
+2019-10-16 10:46:19 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']
+2019-10-16 10:46:19 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), 'premium')]
+2019-10-16 10:46:20 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div
+2019-10-16 10:46:21 DEBUG GUITextBox:14 - Set value "GBPCAD" for By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input
+2019-10-16 10:46:21 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[2]/ul/li/a
+2019-10-16 10:46:22 DEBUG GUITextBox:14 - Set value "1" for By.xpath: //*[@id='select-lot']
+2019-10-16 10:46:22 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[1]/div/button/div
+2019-10-16 10:46:23 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), '1:500')]
+2019-10-16 10:46:24 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[2]/button
+2019-10-16 10:46:24 DEBUG GUITextBox:75 - Get text for locator ( By.xpath: /html/body/section/section/div[2]/div[2]/div/div/div[2]/div[2]/p ) - result: 7.57220 USD
+2019-10-16 10:46:30 DEBUG OnlineQuotes:21 - Confirm page
+2019-10-16 10:46:30 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-10-16 10:46:35 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 0.99803
+2019-10-16 10:46:36 DEBUG Calculator:21 - Confirm page
+2019-10-16 10:46:37 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']
+2019-10-16 10:46:37 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), 'premium')]
+2019-10-16 10:46:38 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div
+2019-10-16 10:46:38 DEBUG GUITextBox:14 - Set value "GBPCHF" for By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input
+2019-10-16 10:46:39 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[2]/ul/li/a
+2019-10-16 10:46:40 DEBUG GUITextBox:14 - Set value "1" for By.xpath: //*[@id='select-lot']
+2019-10-16 10:46:40 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[1]/div/button/div
+2019-10-16 10:46:41 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), '1:500')]
+2019-10-16 10:46:41 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[2]/button
+2019-10-16 10:46:42 DEBUG GUITextBox:75 - Get text for locator ( By.xpath: /html/body/section/section/div[2]/div[2]/div/div/div[2]/div[2]/p ) - result: 10.01974 USD
+2019-10-16 10:46:49 DEBUG OnlineQuotes:21 - Confirm page
+2019-10-16 10:46:49 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
+2019-10-16 10:46:54 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 108.710
+2019-10-16 10:46:56 DEBUG Calculator:21 - Confirm page
+2019-10-16 10:46:56 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']
+2019-10-16 10:46:56 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), 'premium')]
+2019-10-16 10:46:57 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div
+2019-10-16 10:46:58 DEBUG GUITextBox:14 - Set value "GBPJPY" for By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input
+2019-10-16 10:46:58 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[2]/ul/li/a
+2019-10-16 10:46:59 DEBUG GUITextBox:14 - Set value "1" for By.xpath: //*[@id='select-lot']
+2019-10-16 10:46:59 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[1]/div/button/div

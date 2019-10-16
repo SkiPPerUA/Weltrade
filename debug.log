@@ -1,28 +1,18 @@
-2019-10-16 10:53:03 DEBUG OnlineQuotes:21 - Confirm page
-2019-10-16 10:53:03 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
-2019-10-16 10:53:08 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 7.84411
-2019-10-16 10:53:10 DEBUG Calculator:21 - Confirm page
-2019-10-16 10:53:10 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']
-2019-10-16 10:53:11 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), 'premium')]
-2019-10-16 10:53:11 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div
-2019-10-16 10:53:12 DEBUG GUITextBox:14 - Set value "USDHKD" for By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input
-2019-10-16 10:53:13 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[2]/ul/li/a
-2019-10-16 10:53:13 DEBUG GUITextBox:14 - Set value "1" for By.xpath: //*[@id='select-lot']
-2019-10-16 10:53:14 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[1]/div/button/div
-2019-10-16 10:53:15 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), '1:500')]
-2019-10-16 10:53:15 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[2]/button
-2019-10-16 10:53:16 DEBUG GUITextBox:75 - Get text for locator ( By.xpath: /html/body/section/section/div[2]/div[2]/div/div/div[2]/div[2]/p ) - result: 1.27484 USD
-2019-10-16 10:53:21 DEBUG OnlineQuotes:21 - Confirm page
-2019-10-16 10:53:21 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='wt-quotes-symbol']/div
-2019-10-16 10:53:26 DEBUG GUIElement:75 - Get text for locator ( By.xpath: .//div[@class='col-md-2 col-sm-4 col-xs-12']/div ) - result: 5.90125
-2019-10-16 10:53:28 DEBUG Calculator:21 - Confirm page
-2019-10-16 10:53:28 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[1]/div/button[@class='btn dropdown-toggle bs-placeholder btn-default']/div[@class='filter-option']
-2019-10-16 10:53:29 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), 'premium')]
-2019-10-16 10:53:30 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/button/div
-2019-10-16 10:53:30 DEBUG GUITextBox:14 - Set value "USDTRY" for By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[1]/input
-2019-10-16 10:53:31 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[1]/div[2]/div/div/div[2]/ul/li/a
-2019-10-16 10:53:31 DEBUG GUITextBox:14 - Set value "1" for By.xpath: //*[@id='select-lot']
-2019-10-16 10:53:32 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[1]/div/button/div
-2019-10-16 10:53:33 DEBUG GUIButton:14 - Click By.xpath: .//a/span[contains(text(), '1:500')]
-2019-10-16 10:53:33 DEBUG GUIButton:14 - Click By.xpath: /html/body/section/section/div[2]/div[1]/div/form[2]/div[2]/button
-2019-10-16 10:53:34 DEBUG GUITextBox:75 - Get text for locator ( By.xpath: /html/body/section/section/div[2]/div[2]/div/div/div[2]/div[2]/p ) - result: 1.69446 USD
+2019-10-16 16:16:08 DEBUG AutorisationPage:21 - Confirm page
+2019-10-16 16:16:17 DEBUG GUITextBox:14 - Set value "cyndap-49@bigmir.net" for By.xpath: .//input[@formcontrolname = 'email']
+2019-10-16 16:16:18 DEBUG GUITextBox:14 - Set value "123qaz" for By.xpath: .//input[@formcontrolname = 'password']
+2019-10-16 16:16:19 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-authorization/div/section/app-default-authorization/section/div/div/div[1]/div/div[1]/div/form/div/button
+2019-10-16 16:16:19 DEBUG TraderControlPage:21 - Confirm page
+2019-10-16 16:16:26 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col d-lg-flex d-none justify-content-end ']/button[@class='wt-btn blue ml-3']
+2019-10-16 16:16:27 DEBUG GUILink:14 - Click By.xpath: /html/body/app-root/app-pages/header/app-header/app-main-nav-menu/nav[1]/div/div/ul/li[2]/a
+2019-10-16 16:16:29 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/cashbox/operations']
+2019-10-16 16:16:29 DEBUG CashierFinOperation1:21 - Confirm page
+2019-10-16 16:16:33 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-deposit/div/div[1]/div/div/div[1]/div/div[1]/div[2]/mat-form-field
+2019-10-16 16:16:35 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-withdrawal/div/div[1]/div/div/div[1]/div/div[2]/div[2]/mat-form-field
+2019-10-16 16:16:37 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-withdrawal/div/div[1]/div/div/div[1]/div/div[3]/div[2]/mat-form-field
+2019-10-16 16:16:38 DEBUG GUIButton:14 - Click By.xpath: .//div/div[4]/div[2]/mat-form-field
+2019-10-16 16:16:38 DEBUG GUITextBox:14 - Set value "10" for By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-withdrawal/div/div[1]/div/div/div[1]/div/div[5]/div[2]/input
+2019-10-16 16:16:39 DEBUG GUIButton:14 - Click By.xpath: .//button[contains(@class,'wt-btn blue')]
+2019-10-16 16:16:40 DEBUG CashierFinOperation2:21 - Confirm page
+2019-10-16 16:16:40 DEBUG GUIButton:14 - Click By.xpath: .//button[contains(@class,'wt-btn blue')]
+2019-10-16 16:16:40 DEBUG CashierFinOperation2:21 - Confirm page

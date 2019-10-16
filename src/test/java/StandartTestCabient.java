@@ -14,7 +14,7 @@ public class StandartTestCabient {
 
 
 
-        String http = prod; // ------> адресс
+        String http = local; // ------> адресс
 
 
 
@@ -66,11 +66,13 @@ public class StandartTestCabient {
             fin.confirmPage();
 
             //"508369" - prod:   "503369" - dev
-            fin.createDepositInvoice(1,"Visa/Mastercard", "USD", accNum, "500");
+            //fin.createDepositInvoice(1,"Visa/Mastercard", "USD", accNum, "500");
+            //"794654654 " - local
+            fin.createWithdrawalInvoice(2,"SAFE","QIWI", "794654654 ", "10");
+            CashierFinOperation2 fin2 = new CashierFinOperation2();
+            fin2.confirmPage();
+            fin2.confirmButton.click();
 
-            CashierFinOperation2 conf = new CashierFinOperation2();
-            conf.confirmPage();
-            conf.confirmButton.click();
 
 
         }finally {
