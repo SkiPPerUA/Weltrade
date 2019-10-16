@@ -65,8 +65,6 @@ public class StandartTestCabient {
             CashierFinOperation1 fin = new CashierFinOperation1();
             fin.confirmPage();
 
-            //"508369" - prod:   "503369" - dev
-            //fin.createDepositInvoice(1,"Visa/Mastercard", "USD", accNum, "500");
             //"794654654 " - local
             fin.createWithdrawalInvoice(2,"SAFE","QIWI", "794654654 ", "10");
             CashierFinOperation2 fin2 = new CashierFinOperation2();
