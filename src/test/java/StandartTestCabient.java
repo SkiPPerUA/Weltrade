@@ -40,9 +40,7 @@ public class StandartTestCabient {
             openAcc.setPlatformAcc("MT5");
             openAcc.setCurrencyAcc("USD");
             openAcc.setLeverageAcc(100);
-
-            OpenAccountInfoPage infoAcc = openAcc.openAcc();
-            String accNum = infoAcc.accountNumber.getText();
+            
 
             openAcc.header.trader.click();
             openAcc.header.traderControl.click();

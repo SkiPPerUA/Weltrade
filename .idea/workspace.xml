@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17cae4f9-d2a7-408e-bbeb-db3f86594c33" name="Default" comment="add">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StandartTestCabient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StandartTestCabient.class" afterDir="false" />
     </list>
     <list id="cf75c754-fb12-42f6-b30b-73b3bd070617" name="com" comment="com&#10;&#10;(cherry picked from commit f7d45ad4872c69a4639399495ed1b0514fa3fb4d)">
       <changelist_data name="Skipper" email="savchukvi12@gmail.com" date="1560448738000" />
@@ -45,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+            <state relative-caret-position="555">
+              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -251,7 +250,7 @@
     <property name="FullScreen" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571231869674" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571401541231" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="dynamic.classpath" value="false" />
@@ -477,7 +476,7 @@
       <workItem from="1569220771251" duration="10154000" />
       <workItem from="1569826220224" duration="1547000" />
       <workItem from="1570430190385" duration="10186000" />
-      <workItem from="1571121383093" duration="4493000" />
+      <workItem from="1571121383093" duration="6079000" />
     </task>
     <task id="LOCAL-00001" summary="com">
       <created>1560448741264</created>
@@ -647,13 +646,17 @@
       <option name="project" value="LOCAL" />
       <updated>1571231854032</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add">
+      <created>1571239294289</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1571239294289</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorPublicTest - 2019.10.10 at 12h 39m 42s.xml">
-      <configuration name="CalculatorPublicTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculatorPublicTest - 2019.10.10 at 12h 42m 45s.xml">
       <configuration name="CalculatorPublicTest" configurationId="JUnit" />
     </history-entry>
@@ -681,9 +684,12 @@
     <history-entry file="StandartTestCabient - 2019.10.16 at 16h 17m 11s.xml">
       <configuration name="StandartTestCabient" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="StandartTestCabient - 2019.10.18 at 15h 25m 25s.xml">
+      <configuration name="StandartTestCabient" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150770000" />
+    <option name="totallyTimeSpent" value="152356000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -715,7 +721,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.43316063" />
       <window_info anchor="bottom" id="Application Servers" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26632124" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.26632124" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32953367" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -1172,8 +1178,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+        <state relative-caret-position="555">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
         </state>
       </provider>
     </entry>
