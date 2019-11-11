@@ -1,0 +1,9 @@
+2019-11-08 13:15:00 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[3]/div[2]/mat-form-field/div/div[1]/div
+2019-11-08 13:15:01 DEBUG GUIButton:14 - Click By.xpath: .//div[2]/button[@class='wt-btn green']
+2019-11-08 13:15:02 DEBUG GUILink:14 - Click By.xpath: .//div[@class='user-info-profile']
+2019-11-08 13:15:02 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/settings']
+2019-11-08 13:15:03 DEBUG GUIButton:14 - Click By.xpath: .//li/a[@routerlink='security']
+2019-11-08 13:15:04 DEBUG GUILink:14 - Click By.xpath: /html/body/app-root/app-pages/header/app-header/app-main-nav-menu/nav[1]/div/div/ul/li[2]/a
+2019-11-08 13:15:05 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/cashbox/operations']
+2019-11-08 13:15:06 DEBUG CashierFinOperation1:21 - Confirm page
+2019-11-08 13:15:07 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-deposit/div/div[1]/div/div/div[1]/div/div[1]/div[2]/mat-form-field

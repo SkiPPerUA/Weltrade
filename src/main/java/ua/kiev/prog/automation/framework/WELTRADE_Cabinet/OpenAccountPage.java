@@ -23,35 +23,57 @@ public class OpenAccountPage extends PageObject {
     final public GUIButton openAccButt = new GUIButton(Locator.create(".//div[2]/button[@class='wt-btn green']"));
 
 
-    final public GUIButton platformAcc = new GUIButton(Locator.create(".//div[1]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select"));
-    final public GUIButton currencyAcc = new GUIButton(Locator.create("/html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[2]/div[2]/mat-form-field"));
-    final public GUIButton leverageAcc = new GUIButton(Locator.create("/html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[3]/div[2]/mat-form-field/div/div[1]/div"));
+    final private GUIButton platformAcc = new GUIButton(Locator.create(".//div[1]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select"));
+    final private GUIButton currencyAcc = new GUIButton(Locator.create("/html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[2]/div[2]/mat-form-field"));
+    final private GUIButton leverageAcc = new GUIButton(Locator.create("/html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[3]/div[2]/mat-form-field/div/div[1]/div"));
 
-    public void setPlatformAcc (String pl){
+
+
+    public void openRealAcc(String accType, String platform, String currency, String leverage) {
+
+        GUIButton acc = new GUIButton(Locator.create(".//nav/ul/li/a[text()='"+accType+"']/.."));
+        acc.click();
         platformAcc.click();
-       WebElement a = Session.get().driver().findElement(By.xpath(".//mat-option/span[contains(text(), '"+pl+"')]"));
-       a.click();
-    }
-
-
-    public void setCurrencyAcc(String cr){
+        GUIButton plat = new GUIButton(Locator.create(".//mat-option/span[contains(text(), '"+platform+"')]"));
+        plat.click();
         currencyAcc.click();
-        WebElement a = Session.get().driver().findElement(By.xpath(".//div/div/mat-option/span[text()='"+cr+" ']"));
-        a.click();
-    }
-
-
-    public void setLeverageAcc(int lv){
+        GUIButton curr = new GUIButton(Locator.create(".//div/div/mat-option/span[text()='"+currency+" ']"));
+        curr.click();
         leverageAcc.click();
-        WebElement a = Session.get().driver().findElement(By.xpath(".//span[text()='1:"+lv+" ']"));
-        a.click();
+        GUIButton lever = new GUIButton(Locator.create(".//span[text()='"+leverage+" ']"));
+        lever.click();
+        openAccButt.click();
     }
 
-    public OpenAccountInfoPage openAcc(){
-       this.openAccButt.click();
-       OpenAccountInfoPage page = new OpenAccountInfoPage();
-       page.confirmPage();
-       return page;
+    public void openDemoAcc(String platform, String accDemoType, String currency, int deposit, String leverage){
+        GUIButton acc = new GUIButton(Locator.create(".//nav/ul/li/a[text()='DEMO']"));
+        acc.click();
+        GUIButton pl = new GUIButton(Locator.create(".//div[1]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select"));
+        pl.click();
+        GUIButton setPl = new GUIButton(Locator.create(".//mat-option/span[contains(text(), '"+platform+"')]"));
+        setPl.click();
+        GUIButton demoType = new GUIButton(Locator.create(".//div[2]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select"));
+        demoType.click();
+        GUIButton setDemoType = new GUIButton(Locator.create(".//div/div/mat-option/span[text()='"+accDemoType+" ']"));
+        setDemoType.click();
+        GUIButton curr = new GUIButton(Locator.create(".//div[3]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select"));
+        curr.click();
+        GUIButton setCurr = new GUIButton(Locator.create(".//div/div/mat-option/span[text()='"+currency+" ']"));
+        setCurr.click();
+        GUIButton depVal = new GUIButton(Locator.create(".//div[4]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select"));
+        depVal.click();
+        GUIButton setDepVal = new GUIButton(Locator.create(".//div/div/mat-option/span[text()='"+deposit+" ']"));
+        setDepVal.click();
+        GUIButton lev = new GUIButton(Locator.create(".//div[5]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select"));
+        lev.click();
+        GUIButton setLev = new GUIButton(Locator.create(".//span[text()='"+leverage+" ']"));
+        setLev.click();
+        openAccButt.click();
+
+
+
+
+
     }
 
 }

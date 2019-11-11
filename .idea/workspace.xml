@@ -2,85 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17cae4f9-d2a7-408e-bbeb-db3f86594c33" name="Default" comment="add">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/VzlomWELTRADE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-11-05-12-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-11-05-12-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-11-08-13-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-11-08-13-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log.2019-11-08-13-18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OpenAccTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GUILinkTesthytrgh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/VzlomWELTRADE.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/automation-framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-02-14-58" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-02-14-59" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-19" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-23" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-24" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-25" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-11-27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-08" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-16" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-19" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-30" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-10-12-42" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-34" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-36" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-42" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-43" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-44" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-45" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-46" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-48" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-49" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-50" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-51" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log.2019-10-16-10-52" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/OnlineQuotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/OnlineQuotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorPublicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorPublicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/QuotesPublicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/QuotesPublicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ua/kiev/prog/automation/framework/base/widget/GUILinkTesthytrgh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GUILinkTesthytrgh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/OnlineQuotes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/OnlineQuotes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CalculatorPublicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CalculatorPublicTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StandartTestCabient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StandartTestCabient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/QuotesPublicTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ua/kiev/prog/automation/framework/base/widget/GUILinkTesthytrgh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ua/kiev/prog/automation/framework/WELTRADE_Publick/QuotesPublicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/QuotesPublicTest.class" afterDir="false" />
     </list>
     <list id="cf75c754-fb12-42f6-b30b-73b3bd070617" name="com" comment="com&#10;&#10;(cherry picked from commit f7d45ad4872c69a4639399495ed1b0514fa3fb4d)">
       <changelist_data name="Skipper" email="savchukvi12@gmail.com" date="1560448738000" />
@@ -118,20 +52,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="454">
+              <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="21" column="251" selection-start-line="21" selection-start-column="251" selection-end-line="21" selection-end-column="251" />
+            <state relative-caret-position="479">
+              <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/OpenAccTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/task_1430.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierHistoryPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/SettingsPage.java" />
@@ -169,7 +114,6 @@
         <option value="$PROJECT_DIR$/src/test/java/task_1563.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/Blocks/SettingsSecurityBlock.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/FinOperation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountInfoPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/MainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/SessionTestNGTest.java" />
@@ -207,11 +151,13 @@
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/Calculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/CalculatorPublicTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" />
         <option value="$PROJECT_DIR$/src/test/java/GUILinkTesthytrgh.java" />
         <option value="$PROJECT_DIR$/src/test/java/VzlomWELTRADE.java" />
         <option value="$PROJECT_DIR$/src/test/java/Kapcha.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StandartTestCabient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OpenAccTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountPage.java" />
       </list>
     </option>
   </component>
@@ -251,8 +197,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="CatdeaLogs" />
       <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,6 +211,36 @@
               <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
               <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeltradeProjectAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="WELTRADE_Cabinet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WeltradeProjectAuto" type="b2602c69:ProjectViewProjectNode" />
@@ -282,14 +259,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573211899515" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573465223275" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="dynamic.classpath" value="false" />
@@ -325,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.StandartTestCabient.testMain">
+  <component name="RunManager" selected="TestNG.OpenAccTest">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -405,30 +381,33 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2" />
     </configuration>
-    <configuration name="VzlomWELTRADE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="automation-framework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VzlomWELTRADE" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VzlomWELTRADE.codeConfirm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="automation-framework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VzlomWELTRADE" />
-      <option name="METHOD_NAME" value="codeConfirm" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenAccTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OpenAccTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenAccTest.openAcc" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OpenAccTest" />
+      <option name="METHOD_NAME" value="openAcc" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -476,11 +455,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.OpenAccTest" />
+        <item itemvalue="TestNG.OpenAccTest.openAcc" />
         <item itemvalue="TestNG.StandartTestCabient.testMain" />
         <item itemvalue="TestNG.StandartTestCabient" />
         <item itemvalue="Application.Kapcha" />
-        <item itemvalue="JUnit.VzlomWELTRADE.codeConfirm" />
-        <item itemvalue="JUnit.VzlomWELTRADE" />
       </list>
     </recent_temporary>
   </component>
@@ -522,6 +501,7 @@
       <workItem from="1571652663192" duration="1052000" />
       <workItem from="1572249467874" duration="6601000" />
       <workItem from="1572855083174" duration="7167000" />
+      <workItem from="1573458045313" duration="4363000" />
     </task>
     <task id="LOCAL-00001" summary="com">
       <created>1560448741264</created>
@@ -705,31 +685,17 @@
       <option name="project" value="LOCAL" />
       <updated>1571652732173</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add1">
+      <created>1573458106503</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1573458106504</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VzlomWELTRADE_codeConfirm - 2019.11.04 at 11h 33m 44s.xml">
-      <configuration name="VzlomWELTRADE.codeConfirm" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VzlomWELTRADE_codeConfirm - 2019.11.04 at 11h 34m 04s.xml">
-      <configuration name="VzlomWELTRADE.codeConfirm" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VzlomWELTRADE_codeConfirm - 2019.11.04 at 11h 35m 49s.xml">
-      <configuration name="VzlomWELTRADE.codeConfirm" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VzlomWELTRADE_codeConfirm - 2019.11.04 at 11h 36m 04s.xml">
-      <configuration name="VzlomWELTRADE.codeConfirm" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VzlomWELTRADE_codeConfirm - 2019.11.04 at 11h 36m 20s.xml">
-      <configuration name="VzlomWELTRADE.codeConfirm" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VzlomWELTRADE_codeConfirm - 2019.11.04 at 11h 42m 22s.xml">
-      <configuration name="VzlomWELTRADE.codeConfirm" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VzlomWELTRADE_codeConfirm - 2019.11.04 at 11h 43m 07s.xml">
-      <configuration name="VzlomWELTRADE.codeConfirm" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StandartTestCabient - 2019.11.05 at 12h 10m 22s.xml">
       <configuration name="StandartTestCabient" configurationId="TestNG" />
     </history-entry>
@@ -739,9 +705,30 @@
     <history-entry file="StandartTestCabient_testMain - 2019.11.08 at 13h 19m 21s.xml">
       <configuration name="StandartTestCabient.testMain" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="OpenAccTest - 2019.11.11 at 11h 19m 40s.xml">
+      <configuration name="OpenAccTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenAccTest - 2019.11.11 at 11h 23m 58s.xml">
+      <configuration name="OpenAccTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenAccTest_openAcc - 2019.11.11 at 11h 31m 22s.xml">
+      <configuration name="OpenAccTest.openAcc" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenAccTest_openAcc - 2019.11.11 at 11h 33m 06s.xml">
+      <configuration name="OpenAccTest.openAcc" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenAccTest_openAcc - 2019.11.11 at 11h 35m 02s.xml">
+      <configuration name="OpenAccTest.openAcc" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenAccTest - 2019.11.11 at 11h 36m 38s.xml">
+      <configuration name="OpenAccTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenAccTest - 2019.11.11 at 11h 38m 19s.xml">
+      <configuration name="OpenAccTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167176000" />
+    <option name="totallyTimeSpent" value="171539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -755,7 +742,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.17838125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.1799787" />
       <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.15921193" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -765,7 +752,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284974" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -896,23 +883,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/app/forum/MainPageForum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/debug.log.2019-07-25-15-42" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Publick/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1036,26 +1006,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testheagercabinet.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/LinksPublic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SessionTestNGTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TextPublic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1180,13 +1130,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Kapcha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Kapcha.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/VzlomWELTRADE.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
@@ -1194,13 +1138,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/QuotesPublicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="87" column="58" selection-start-line="87" selection-start-column="58" selection-end-line="87" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -1216,8 +1153,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/CashierFinOperation1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
+        <state relative-caret-position="195">
           <caret line="21" column="251" selection-start-line="21" selection-start-column="251" selection-end-line="21" selection-end-column="251" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/QuotesPublicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="87" column="58" selection-start-line="87" selection-start-column="58" selection-end-line="87" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LinksPublic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SessionTestNGTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1226,8 +1190,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StandartTestCabient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="454">
+          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/automation/framework/WELTRADE_Cabinet/OpenAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OpenAccTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

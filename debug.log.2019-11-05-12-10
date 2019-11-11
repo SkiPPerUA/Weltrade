@@ -1,0 +1,22 @@
+2019-11-05 12:10:00 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/trader/control']
+2019-11-05 12:10:02 DEBUG TraderControlPage:21 - Confirm page
+2019-11-05 12:10:03 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col d-lg-flex d-none justify-content-end ']/button[@class='wt-btn blue ml-3']
+2019-11-05 12:10:04 DEBUG GUIButton:14 - Click By.xpath: .//nav/ul/li/a[text()='PRO']
+2019-11-05 12:10:05 DEBUG GUIButton:14 - Click By.xpath: .//div[1]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select
+2019-11-05 12:10:06 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[2]/div[2]/mat-form-field
+2019-11-05 12:10:07 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[3]/div[2]/mat-form-field/div/div[1]/div
+2019-11-05 12:10:08 DEBUG GUIButton:14 - Click By.xpath: .//div[2]/button[@class='wt-btn green']
+2019-11-05 12:10:08 DEBUG GUILink:14 - Click By.xpath: .//div[@class='user-info-profile']
+2019-11-05 12:10:09 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/settings']
+2019-11-05 12:10:10 DEBUG GUIButton:14 - Click By.xpath: .//li/a[@routerlink='security']
+2019-11-05 12:10:11 DEBUG GUILink:14 - Click By.xpath: /html/body/app-root/app-pages/header/app-header/app-main-nav-menu/nav[1]/div/div/ul/li[2]/a
+2019-11-05 12:10:12 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/cashbox/operations']
+2019-11-05 12:10:13 DEBUG CashierFinOperation1:21 - Confirm page
+2019-11-05 12:10:14 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-deposit/div/div[1]/div/div/div[1]/div/div[1]/div[2]/mat-form-field
+2019-11-05 12:10:17 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-withdrawal/div/div[1]/div/div/div[1]/div/div[2]/div[2]/mat-form-field
+2019-11-05 12:10:18 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-withdrawal/div/div[1]/div/div/div[1]/div/div[3]/div[2]/mat-form-field
+2019-11-05 12:10:19 DEBUG GUIButton:14 - Click By.xpath: .//div/div[4]/div[2]/mat-form-field
+2019-11-05 12:10:20 DEBUG GUITextBox:14 - Set value "10" for By.xpath: /html/body/app-root/app-pages/main/app-operations/section/div/app-operations-withdrawal/div/div[1]/div/div/div[1]/div/div[5]/div[2]/input
+2019-11-05 12:10:20 DEBUG GUIButton:14 - Click By.xpath: .//button[contains(@class,'wt-btn blue')]
+2019-11-05 12:10:21 DEBUG CashierFinOperation2:21 - Confirm page
+2019-11-05 12:10:21 DEBUG GUIButton:14 - Click By.xpath: .//button[contains(@class,'wt-btn blue')]

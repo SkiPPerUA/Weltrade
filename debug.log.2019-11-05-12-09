@@ -1,0 +1,12 @@
+2019-11-05 12:09:42 DEBUG AutorisationPage:21 - Confirm page
+2019-11-05 12:09:43 DEBUG GUITextBox:14 - Set value "cyndap-49@bigmir.net" for By.xpath: .//input[@formcontrolname = 'email']
+2019-11-05 12:09:43 DEBUG GUITextBox:14 - Set value "123qaz" for By.xpath: .//input[@formcontrolname = 'password']
+2019-11-05 12:09:44 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-authorization/div/section/app-default-authorization/section/div/div/div[1]/div/div[1]/div/form/div/button
+2019-11-05 12:09:45 DEBUG TraderControlPage:21 - Confirm page
+2019-11-05 12:09:51 DEBUG GUIButton:14 - Click By.xpath: .//div[@class='col d-lg-flex d-none justify-content-end ']/button[@class='wt-btn blue ml-3']
+2019-11-05 12:09:55 DEBUG OpenAccountPage:21 - Confirm page
+2019-11-05 12:09:56 DEBUG GUIButton:14 - Click By.xpath: .//nav/ul/li/a[text()='PREMIUM']
+2019-11-05 12:09:57 DEBUG GUIButton:14 - Click By.xpath: .//div[1]/div[2]/mat-form-field/div/div/div[@class='mat-input-infix mat-form-field-infix']/mat-select
+2019-11-05 12:09:57 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[2]/div[2]/mat-form-field
+2019-11-05 12:09:58 DEBUG GUIButton:14 - Click By.xpath: /html/body/app-root/app-pages/main/app-open-account/section/div/div/div[3]/div/div/form/div[3]/div[2]/mat-form-field/div/div[1]/div
+2019-11-05 12:09:59 DEBUG GUILink:14 - Click By.xpath: .//li/a[@routerlink='/trader/']

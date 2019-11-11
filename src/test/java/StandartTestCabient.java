@@ -38,22 +38,7 @@ public class StandartTestCabient {
             OpenAccountPage openAcc = new OpenAccountPage();
             openAcc.confirmPage();
 
-            openAcc.premAcc.click();
-            openAcc.setPlatformAcc("MT5");
-            openAcc.setCurrencyAcc("USD");
-            openAcc.setLeverageAcc(100);
-            
-
-            openAcc.header.trader.click();
-            openAcc.header.traderControl.click();
-            page.confirmPage();
-            page.openAccountButton.click();
-
-            openAcc.proAcc.click();
-            openAcc.setPlatformAcc("MT5");
-            openAcc.setCurrencyAcc("USD");
-            openAcc.setLeverageAcc(100);
-            openAcc.openAccButt.click();
+            openAcc.openRealAcc("PRO","MT5", "USD", "1:100");
 
             page.header.userInfo.click();
             page.header.userSettings.click();
