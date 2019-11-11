@@ -19,7 +19,7 @@ public class CashierFinOperation1 extends PageObject {
 
     final public Header header = new Header();
 
-    private final GUIButton typeOperation = new GUIButton(Locator.create("/html/body/app-root/app-pages/main/app-operations/section/div/app-operations-deposit/div/div[1]/div/div/div[1]/div/div[1]/div[2]/mat-form-field"));
+    private final GUIButton typeOperation = new GUIButton(Locator.create("/html/body/app-root/app-pages/main/app-operations/section/div/app-operations-deposit/div/div[1]/div/div/div[1]/div/div[1]/div[2]/app-financial-operations-selector/mat-form-field"));
     private final GUIButton createInvoiceButton = new GUIButton(Locator.create(".//button[contains(@class,'wt-btn blue')]"));
 
     //Депозит

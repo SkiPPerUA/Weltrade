@@ -1,8 +1,9 @@
-package ua.kiev.prog.automation.framework.WELTRADE_Publick;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
+import ua.kiev.prog.automation.framework.WELTRADE_Publick.Calculator;
+import ua.kiev.prog.automation.framework.WELTRADE_Publick.MainPage;
+import ua.kiev.prog.automation.framework.WELTRADE_Publick.OnlineQuotes;
 import ua.kiev.prog.automation.framework.base.Session;
 
 import static org.testng.Assert.*;

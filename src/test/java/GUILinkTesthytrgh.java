@@ -1,7 +1,6 @@
-package ua.kiev.prog.automation.framework.base.widget;
-
 import ua.kiev.prog.automation.framework.base.Locator;
 import ua.kiev.prog.automation.framework.base.Session;
+import ua.kiev.prog.automation.framework.base.widget.GUILink;
 
 import static org.testng.Assert.*;
 

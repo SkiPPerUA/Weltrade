@@ -1,3 +1,5 @@
+import com.squareup.okhttp.OkHttpClient;
+import com.squareup.okhttp.Request;
 import org.testng.annotations.Test;
 import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.*;
 import ua.kiev.prog.automation.framework.WELTRADE_Cabinet.Blocks.SettingsSecurityBlock;

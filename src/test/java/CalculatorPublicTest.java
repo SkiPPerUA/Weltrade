@@ -52,7 +52,7 @@ public class CalculatorPublicTest extends Assert {
                 "USDJPY"	,
                 "USDMXN"	,
                 "USDNOK"	,
-                "USDRUB"	,
+               // "USDRUB"	,
                 "USDSEK"	,
                 "USDSGD"	,
                 "USDZAR"	,
@@ -113,13 +113,15 @@ public class CalculatorPublicTest extends Assert {
 
         String onlineQuotes [] = new String[50];
         String pipVal [] = new String[50];
-
+        Session.get().driver().navigate().to("http://wt23.dev.weltrade.com.ua/tools/calculator/");
+        Calculator calc = new Calculator();
+        calc.confirmPage();
 
 
         try{
 
-            for(int i = 0; i < tiketTools.length; i++){
-                OnlineQuotes quo = new OnlineQuotes();
+            for(int i = 0; i < calcTools.length; i++){
+                /*OnlineQuotes quo = new OnlineQuotes();
 
                 if(tiketTools[i] != null){
                     Session.get().driver().navigate().to("https://www.weltrade.com.ua/tools/quotes/");
@@ -127,23 +129,27 @@ public class CalculatorPublicTest extends Assert {
                     quo.setQuotes(tiketTools[i]);
                     Thread.sleep(4000);
                     onlineQuotes[i] = quo.price.getText();
-                }
+                }*/
 
-                Session.get().driver().navigate().to("http://www.weltrade.com.ua/tools/calculator/");
 
-                Calculator calc = new Calculator();
-                calc.confirmPage();
-                calc.culculateForex("premium",calcTools[i],"1","1:500");
-                pipVal[i] = calc.pipValue.getText();
+
+
+
+
+
+                calc.culculateForex("ZuluTrade",calcTools[i],"1","1:500");
+                pipVal[i] = calc.spreadValue.getText();
+                calc.buttonReset.click();
+                Thread.sleep(1000);
 
             }
 
-            System.out.println("Тикеты");
+           /* System.out.println("Тикеты");
             for (int z = 0; z < pipVal.length; z++){
                 System.out.println(onlineQuotes[z]);
             }
 
-            System.out.println();
+            System.out.println();*/
             System.out.println("Результат");
             for (int p = 0; p < pipVal.length; p++){
                 System.out.println(pipVal[p]);

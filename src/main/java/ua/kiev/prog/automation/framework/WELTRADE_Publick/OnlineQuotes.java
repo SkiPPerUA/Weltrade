@@ -8,7 +8,7 @@ import ua.kiev.prog.automation.framework.base.widget.GUIElement;
 
 public class OnlineQuotes extends PageObject {
     @Override
-    protected Locator readyLocator() {
+    public Locator readyLocator() {
         return Locator.create(".//div[@class='dropdown wt-dropdown']");
     }
 
